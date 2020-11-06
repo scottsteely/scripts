@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+while true
+do
+    feh --bg-fill --randomize /home/scott/unsplashget/backgrounds/*
+    sleep 300
+done

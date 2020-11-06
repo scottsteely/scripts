@@ -1,0 +1,18 @@
+#!/usr/bin/env python 
+import urllib.request
+import json
+import requests
+
+client_id = "63e238f6c7ba10f54ce4ac49dfb83b1d7ad8afae9e5c79f9df42f9fcea1e8370"
+link = "https://api.unsplash.com/photos/random"
+payload = {'client_id': client_id, 'feature': True, 'query': 'wallpaper', 'w': 1920, 'h': 1080, 'orientation': 'landscape', 'count' : 30}
+
+picture_list = requests.get(link, params=payload) 
+
+data = picture_list.json() 
+
+for i in range(len(data)): 
+    custom_link = (data[i]['urls']['custom']) 
+    filename = "/home/scott/unsplashget/backgrounds/" + str(i) + ".jpg"
+    urllib.request.urlretrieve(custom_link, filename)
+

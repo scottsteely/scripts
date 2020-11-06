@@ -1,0 +1,2 @@
+awk '{if(/<img id="main-comic" src="/) print $3}' <(curl -s http://explosm.net/)
+
