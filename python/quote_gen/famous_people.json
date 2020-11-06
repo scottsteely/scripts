@@ -1,0 +1,3452 @@
+{
+    "Ronald Reagan": {
+        "Born": "1911",
+        "Died": "2004",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg"
+    },
+    "Adolf Hitler": {
+        "Born": "1889",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hitler_portrait_crop.jpg"
+    },
+    "Carl Linnaeus": {
+        "Born": "1707",
+        "Died": "1778",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/41/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723.tif"
+    },
+    "John F. Kennedy": {
+        "Born": "1917",
+        "Died": "1963",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"
+    },
+    "Abraham Lincoln": {
+        "Born": "1809",
+        "Died": "1865",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg"
+    },
+    "Franklin D. Roosevelt": {
+        "Born": "1882",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/42/FDR_1944_Color_Portrait.jpg"
+    },
+    "Winston Churchill": {
+        "Born": "1874",
+        "Died": "1965",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg"
+    },
+    "Pope John Paul II": {
+        "Born": "1920",
+        "Died": "2005",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/57/JohannesPaulusSimonis1985.2_%28cropped%29.jpg"
+    },
+    "Queen Victoria": {
+        "Born": "1819",
+        "Died": "1901",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Queen_Victoria_by_Bassano.jpg"
+    },
+    "Richard Nixon": {
+        "Born": "1913",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Richard_Nixon_presidential_portrait.jpg"
+    },
+    "George Washington": {
+        "Born": "1732",
+        "Died": "1799",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
+    },
+    "Frank Sinatra": {
+        "Born": "1915",
+        "Died": "1998",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/af/Frank_Sinatra_%2757.jpg"
+    },
+    "Napoleon": {
+        "Born": "1769",
+        "Died": "1821",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Grandes_Armes_Imp%C3%A9riales_%281804-1815%292.svg"
+    },
+    "Sidney Lee": {
+        "Born": "1859",
+        "Died": "1926",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sir-Sidney-Lee.jpg"
+    },
+    "Joseph Stalin": {
+        "Born": "1878",
+        "Died": "1953",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/43/Stalin_Full_Image.jpg"
+    },
+    "Theodore Roosevelt": {
+        "Born": "1858",
+        "Died": "1919",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1c/President_Roosevelt_-_Pach_Bros.jpg"
+    },
+    "Jimmy Carter": {
+        "Born": "1924",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5a/JimmyCarterPortrait2.jpg"
+    },
+    "Dwight D. Eisenhower": {
+        "Born": "1890",
+        "Died": "1969",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg"
+    },
+    "Thomas Jefferson": {
+        "Born": "1743",
+        "Died": "1826",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg"
+    },
+    "Nikolaus Pevsner": {
+        "Born": "1902",
+        "Died": "1983",
+        "link": "https://upload.wikimedia.org/wikipedia/en/7/7c/Nikolaus_Pevsner.jpg"
+    },
+    "George H. W. Bush": {
+        "Born": "1924",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg"
+    },
+    "Lyndon B. Johnson": {
+        "Born": "1908",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg"
+    },
+    "Woodrow Wilson": {
+        "Born": "1856",
+        "Died": "1924",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg"
+    },
+    "Wolfgang Amadeus Mozart": {
+        "Born": "1756",
+        "Died": "1791",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Retrato_de_Mozart%2C_por_Johann_Nepomuk_della_Croce_%28detalle%29.jpg"
+    },
+    "Mahatma Gandhi": {
+        "Born": "1869",
+        "Died": "1948",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg"
+    },
+    "Johann Sebastian Bach": {
+        "Born": "1685",
+        "Died": "1750",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg"
+    },
+    "Karl Marx": {
+        "Born": "1818",
+        "Died": "1883",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg"
+    },
+    "Margaret Thatcher": {
+        "Born": "1925",
+        "Died": "2013",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg"
+    },
+    "Ulysses S. Grant": {
+        "Born": "1822",
+        "Died": "1885",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ulysses_S._Grant_1870-1880.jpg"
+    },
+    "Albert Einstein": {
+        "Born": "1879",
+        "Died": "1955",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+    },
+    "Benito Mussolini": {
+        "Born": "1883",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg"
+    },
+    "Charles Darwin": {
+        "Born": "1809",
+        "Died": "1882",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg"
+    },
+    "Charles Dickens": {
+        "Born": "1812",
+        "Died": "1870",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg"
+    },
+    "Ludwig van Beethoven": {
+        "Born": "1770",
+        "Died": "1827",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg"
+    },
+    "Harry S. Truman": {
+        "Born": "1884",
+        "Died": "1972",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg"
+    },
+    "Walt Disney": {
+        "Born": "1901",
+        "Died": "1966",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG"
+    },
+    "Gerald Ford": {
+        "Born": "1913",
+        "Died": "2006",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg"
+    },
+    "Edward Meyrick": {
+        "Born": "1854",
+        "Died": "1938",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edward_Meyrick.png"
+    },
+    "Richard Wagner": {
+        "Born": "1813",
+        "Died": "1883",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9d/RichardWagner.jpg"
+    },
+    "Duke Ellington": {
+        "Born": "1899",
+        "Died": "1974",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/af/Duke_Ellington_-_publicity.JPG"
+    },
+    "Pope Paul VI": {
+        "Born": "1897",
+        "Died": "1978",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/64/Paolovi.jpg"
+    },
+    "Benjamin Franklin": {
+        "Born": "1706",
+        "Died": "1790",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg"
+    },
+    "Leslie Stephen": {
+        "Born": "1832",
+        "Died": "1904",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Leslie_Stephen_c1860.jpg"
+    },
+    "Sigmund Freud": {
+        "Born": "1856",
+        "Died": "1939",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg"
+    },
+    "Nelson Mandela": {
+        "Born": "1918",
+        "Died": "2013",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nelson_Mandela-2008.jpg"
+    },
+    "William Smith (lexicographer)": {
+        "Born": "1813",
+        "Died": "1893",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sir_William_Smith_lexicographer_1.PNG"
+    },
+    "Leo Tolstoy": {
+        "Born": "1828",
+        "Died": "1910",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg"
+    },
+    "Andrew Jackson": {
+        "Born": "1767",
+        "Died": "1845",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/43/Andrew_jackson_head.jpg"
+    },
+    "Immanuel Kant": {
+        "Born": "1724",
+        "Died": "1804",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg"
+    },
+    "Jackie Robinson": {
+        "Born": "1919",
+        "Died": "1972",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jackie_Robinson%2C_Brooklyn_Dodgers%2C_1954.jpg"
+    },
+    "Mao Zedong": {
+        "Born": "1893",
+        "Died": "1976",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mao_Zedong_in_1959_%28cropped%29.jpg"
+    },
+    "George Gershwin": {
+        "Born": "1898",
+        "Died": "1937",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/68/George_Gershwin_1937.jpg"
+    },
+    "B. R. Ambedkar": {
+        "Born": "1891",
+        "Died": "1956",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dr._Bhimrao_Ambedkar.jpg"
+    },
+    "Edgar Allan Poe": {
+        "Born": "1809",
+        "Died": "1849",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg"
+    },
+    "Bing Crosby": {
+        "Born": "1903",
+        "Died": "1977",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bing_Crosby_1951.jpg"
+    },
+    "Mark Twain": {
+        "Born": "1835",
+        "Died": "1910",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mark_Twain_by_AF_Bradley.jpg"
+    },
+    "Isaac Newton": {
+        "Born": "1642",
+        "Died": "1727",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"
+    },
+    "Francisco Franco": {
+        "Born": "1892",
+        "Died": "1975",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cf/RETRATO_DEL_GRAL._FRANCISCO_FRANCO_BAHAMONDE_%28adjusted_levels%29.jpg"
+    },
+    "Alfred Hitchcock": {
+        "Born": "1899",
+        "Died": "1980",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hitchcock%2C_Alfred_02.jpg"
+    },
+    "Charlie Chaplin": {
+        "Born": "1889",
+        "Died": "1977",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/34/Charlie_Chaplin_portrait.jpg"
+    },
+    "Pope Pius XII": {
+        "Born": "1876",
+        "Died": "1958",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d8/His_Holiness_Pope_Pius_XII.png"
+    },
+    "George Bernard Shaw": {
+        "Born": "1856",
+        "Died": "1950",
+        "link": "https://upload.wikimedia.org/wikipedia/en/3/30/Bernard-Shaw-ILN-1911-original.jpg"
+    },
+    "Vladimir Lenin": {
+        "Born": "1870",
+        "Died": "1924",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bundesarchiv_Bild_183-71043-0003%2C_Wladimir_Iljitsch_Lenin.jpg"
+    },
+    "Ella Fitzgerald": {
+        "Born": "1917",
+        "Died": "1996",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ella_Fitzgerald_%28Gottlieb_02871%29.jpg"
+    },
+    "Oscar Wilde": {
+        "Born": "1854",
+        "Died": "1900",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/92/Oscar_Wilde_3g07095u-adjust.jpg"
+    },
+    "George III of the United Kingdom": {
+        "Born": "1738",
+        "Died": "1820",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg"
+    },
+    "Robert E. Lee": {
+        "Born": "1807",
+        "Died": "1870",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Robert_Edward_Lee.jpg"
+    },
+    "Herbert Hoover": {
+        "Born": "1874",
+        "Died": "1964",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/57/President_Hoover_portrait.jpg"
+    },
+    "Orson Welles": {
+        "Born": "1915",
+        "Died": "1985",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Orson_Welles_1937.jpg"
+    },
+    "Stan Lee": {
+        "Born": "1922",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Stan_Lee_by_Gage_Skidmore_3.jpg"
+    },
+    "Voltaire": {
+        "Born": "1694",
+        "Died": "1778",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nicolas_de_Largilli%C3%A8re%2C_Fran%C3%A7ois-Marie_Arouet_dit_Voltaire_adjusted.png"
+    },
+    "Giuseppe Verdi": {
+        "Born": "1813",
+        "Died": "1901",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/59/Primo_ritratto_boldiniano_di_Verdi.jpg"
+    },
+    "Bertrand Russell": {
+        "Born": "1872",
+        "Died": "1970",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bertrand_Russell_1957.jpg"
+    },
+    "Pablo Picasso": {
+        "Born": "1881",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Portrait_de_Picasso%2C_1908.jpg"
+    },
+    "Friedrich Nietzsche": {
+        "Born": "1844",
+        "Died": "1900",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg"
+    },
+    "Arthur Wellesley 1st Duke of": {
+        "Born": "1769",
+        "Died": "1852",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sir_Arthur_Wellesley%2C_1st_Duke_of_Wellington.png"
+    },
+    "Louis Armstrong": {
+        "Born": "1901",
+        "Died": "1971",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Louis_Armstrong_restored.jpg"
+    },
+    "Richard Rodgers": {
+        "Born": "1902",
+        "Died": "1979",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rodgers.jpg"
+    },
+    "James Joyce": {
+        "Born": "1882",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg"
+    },
+    "Jawaharlal Nehru": {
+        "Born": "1889",
+        "Died": "1964",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Jnehru.jpg"
+    },
+    "William III of England": {
+        "Born": "1650",
+        "Died": "1702",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5c/King_William_III_of_England%2C_%281650-1702%29_%28lighter%29.jpg"
+    },
+    "Ernest Hemingway": {
+        "Born": "1899",
+        "Died": "1961",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg"
+    },
+    "Franz Liszt": {
+        "Born": "1811",
+        "Died": "1886",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/50/FLiszt.jpg"
+    },
+    "George V": {
+        "Born": "1865",
+        "Died": "1936",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c9/King_George_1923_LCCN2014715558_%28cropped%29.jpg"
+    },
+    "George Albert Boulenger": {
+        "Born": "1858",
+        "Died": "1937",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Boulenger_George_1858-1937.png"
+    },
+    "Grover Cleveland": {
+        "Born": "1837",
+        "Died": "1908",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg"
+    },
+    "Bob Hope": {
+        "Born": "1903",
+        "Died": "2003",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bob_Hope%2C_1978.jpg"
+    },
+    "Pope Pius XI": {
+        "Born": "1857",
+        "Died": "1939",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Papst_Pius_XI._1JS.jpg"
+    },
+    "Laurence Olivier": {
+        "Born": "1907",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Lord_Olivier_6_Allan_Warren.jpg"
+    },
+    "Igor Stravinsky": {
+        "Born": "1882",
+        "Died": "1971",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg"
+    },
+    "Nikita Khrushchev": {
+        "Born": "1894",
+        "Died": "1971",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bundesarchiv_Bild_183-B0628-0015-035%2C_Nikita_S._Chruschtschow.jpg"
+    },
+    "Pope Leo XIII": {
+        "Born": "1810",
+        "Died": "1903",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/61/Pope_leo_xiii_1878.jpg"
+    },
+    "Leonard Bernstein": {
+        "Born": "1918",
+        "Died": "1990",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonard_Bernstein_by_Jack_Mitchell.jpg"
+    },
+    "Babe Ruth": {
+        "Born": "1895",
+        "Died": "1948",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/13/Babe_Ruth2.jpg"
+    },
+    "J. R. R. Tolkien": {
+        "Born": "1892",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Tolkien_1916.jpg"
+    },
+    "William McKinley": {
+        "Born": "1843",
+        "Died": "1901",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mckinley.jpg"
+    },
+    "Cole Porter": {
+        "Born": "1891",
+        "Died": "1964",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Coleporter.jpg"
+    },
+    "David Hume": {
+        "Born": "1711",
+        "Died": "1776",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg"
+    },
+    "Judy Garland": {
+        "Born": "1922",
+        "Died": "1969",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Judy_Garland_The_Harvey_Girls_MGM_Publicity_still.jpeg"
+    },
+    "Charles de Gaulle": {
+        "Born": "1890",
+        "Died": "1970",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bundesarchiv_B_145_Bild-F010324-0002%2C_Flughafen_K%C3%B6ln-Bonn%2C_Adenauer%2C_de_Gaulle-cropped.jpg"
+    },
+    "Heinrich Himmler": {
+        "Born": "1900",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bundesarchiv_Bild_183-S72707%2C_Heinrich_Himmler.jpg"
+    },
+    "William Howard Taft": {
+        "Born": "1857",
+        "Died": "1930",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/be/William_Howard_Taft_cph.3b35813.jpg"
+    },
+    "Pope John XXIII": {
+        "Born": "1881",
+        "Died": "1963",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Papa_Giovanni_XXIII.jpg"
+    },
+    "Johnny Mercer": {
+        "Born": "1909",
+        "Died": "1976",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Johnny_Mercer%2C_New_York%2C_N.Y.%2C_between_1946_and_1948_%28William_P._Gottlieb_06121%29.jpg"
+    },
+    "John Wayne": {
+        "Born": "1907",
+        "Died": "1979",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7b/John_Wayne_-_still_portrait.jpg"
+    },
+    "Richard Strauss": {
+        "Born": "1864",
+        "Died": "1949",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Max_Liebermann_Bildnis_Richard_Strauss.jpg"
+    },
+    "Irving Berlin": {
+        "Born": "1888",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/da/BerlinPortrait1.jpg"
+    },
+    "Prince Philip Duke of Edinburgh": {
+        "Born": "1921",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/13/25.Jun.2015_Prince_Philip_in_Frankfurt.jpg"
+    },
+    "Rabindranath Tagore": {
+        "Born": "1861",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rabindranath_Tagore_unknown_location.jpg"
+    },
+    "Calvin Coolidge": {
+        "Born": "1872",
+        "Died": "1933",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg"
+    },
+    "Johann Wolfgang von Goethe": {
+        "Born": "1749",
+        "Died": "1832",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Goethe_%28Stieler_1828%29.jpg"
+    },
+    "James Madison": {
+        "Born": "1751",
+        "Died": "1836",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/20/James_Madison%28cropped%29%28c%29.jpg"
+    },
+    "James Cook": {
+        "Born": "1728",
+        "Died": "1779",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/76/Captainjamescookportrait.jpg"
+    },
+    "Edward VII": {
+        "Born": "1841",
+        "Died": "1910",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/13/King-Edward-VII_%28crp_ret%29.jpg"
+    },
+    "Rudyard Kipling": {
+        "Born": "1865",
+        "Died": "1936",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rudyard_Kipling_%28portrait%29.jpg"
+    },
+    "Nikola Tesla": {
+        "Born": "1856",
+        "Died": "1943",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG"
+    },
+    "Franz Schubert": {
+        "Born": "1797",
+        "Died": "1828",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/41/Franz_Schubert_Signature.svg"
+    },
+    "Alexander Graham Bell": {
+        "Born": "1847",
+        "Died": "1922",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/10/Alexander_Graham_Bell.jpg"
+    },
+    "John Adams": {
+        "Born": "1735",
+        "Died": "1826",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg"
+    },
+    "Fr\u00e9d\u00e9ric Chopin": {
+        "Born": "1810",
+        "Died": "1849",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chopins_Unterschrift.svg"
+    },
+    "Victor Hugo": {
+        "Born": "1802",
+        "Died": "1885",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg"
+    },
+    "William Ewart Gladstone": {
+        "Born": "1809",
+        "Died": "1898",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/William_Ewart_Gladstone%2C_1892_%28cropped%29.jpg"
+    },
+    "Dizzy Gillespie": {
+        "Born": "1917",
+        "Died": "1993",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Dizzy_Gillespie01.JPG"
+    },
+    "Douglas MacArthur": {
+        "Born": "1880",
+        "Died": "1964",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/92/MacArthur_Manila.jpg"
+    },
+    "Pyotr Ilyich Tchaikovsky": {
+        "Born": "1840",
+        "Died": "1893",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tchaikovsky_by_Reutlinger.jpg"
+    },
+    "Jack Kirby": {
+        "Born": "1917",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Jack-Kirby_art-of-jack-kirby_wyman-skaar.jpg"
+    },
+    "Henry Kissinger": {
+        "Born": "1923",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/87/Conservatism_in_the_United_States_Collage_3.jpg"
+    },
+    "Josip Broz Tito": {
+        "Born": "1892",
+        "Died": "1980",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/13/Josip_Broz_Tito_uniform_portrait.jpg"
+    },
+    "Pope Pius X": {
+        "Born": "1835",
+        "Died": "1914",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/23/Papst_Pius-X..jpg"
+    },
+    "George VI": {
+        "Born": "1895",
+        "Died": "1952",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/25/King_George_VI_LOC_matpc.14736_%28cleaned%29.jpg"
+    },
+    "Jean-Jacques Rousseau": {
+        "Born": "1712",
+        "Died": "1778",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg"
+    },
+    "Henry David Thoreau": {
+        "Born": "1817",
+        "Died": "1862",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored_-_greyscale_-_straightened.jpg"
+    },
+    "Felix Mendelssohn": {
+        "Born": "1809",
+        "Died": "1847",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mendelssohn_Bartholdy.jpg"
+    },
+    "Billie Holiday": {
+        "Born": "1915",
+        "Died": "1959",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Billie_Holiday%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28William_P._Gottlieb_04251%29.jpg"
+    },
+    "John Quincy Adams": {
+        "Born": "1767",
+        "Died": "1848",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/51/JQA_Photo.tif"
+    },
+    "T. S. Eliot": {
+        "Born": "1888",
+        "Died": "1965",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_%281934%29.jpg"
+    },
+    "Stephan von Breuning (entomologist)": {
+        "Born": "1894",
+        "Died": "1983",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Breuning_SN.jpg"
+    },
+    "David Lloyd George": {
+        "Born": "1863",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David_Lloyd_George.jpg"
+    },
+    "Sri Aurobindo": {
+        "Born": "1872",
+        "Died": "1950",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sri_aurobindo.jpg"
+    },
+    "Count Basie": {
+        "Born": "1904",
+        "Died": "1984",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/62/Count_Basie_in_Rhythm_and_Blues_Revue.jpg"
+    },
+    "Indira Gandhi": {
+        "Born": "1917",
+        "Died": "1984",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Indira-Gandhi-ili-50-img-2.jpg"
+    },
+    "Benjamin Britten": {
+        "Born": "1913",
+        "Died": "1976",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/30/Benjamin_Britten%2C_London_Records_1968_publicity_photo_for_Wikipedia.jpg"
+    },
+    "Bertolt Brecht": {
+        "Born": "1898",
+        "Died": "1956",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bertolt-Brecht.jpg"
+    },
+    "Guglielmo Marconi": {
+        "Born": "1874",
+        "Died": "1937",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Guglielmo_Marconi.jpg"
+    },
+    "Fred Astaire": {
+        "Born": "1899",
+        "Died": "1987",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fred_Astaire_1962.JPG"
+    },
+    "George Frideric Handel": {
+        "Born": "1685",
+        "Died": "1759",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg"
+    },
+    "Isaac Asimov": {
+        "Born": "1920",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/34/Isaac.Asimov01.jpg"
+    },
+    "Paul Newman": {
+        "Born": "1925",
+        "Died": "2008",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/67/Paul_Newman_-_1958.jpg"
+    },
+    "Johannes Brahms": {
+        "Born": "1833",
+        "Died": "1897",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/15/JohannesBrahms.jpg"
+    },
+    "Robert Schumann": {
+        "Born": "1810",
+        "Died": "1856",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Robert_Schumann_1839.jpg"
+    },
+    "Frank Lloyd Wright": {
+        "Born": "1867",
+        "Died": "1959",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/30/Frank_Lloyd_Wright_portrait.jpg"
+    },
+    "John Stuart Mill": {
+        "Born": "1806",
+        "Died": "1873",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg"
+    },
+    "Hermann G\u00f6ring": {
+        "Born": "1893",
+        "Died": "1946",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg"
+    },
+    "William Blake": {
+        "Born": "1757",
+        "Died": "1827",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/00/William_Blake_by_Thomas_Phillips.jpg"
+    },
+    "Leon Trotsky": {
+        "Born": "1879",
+        "Died": "1940",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%9B%D0%B5%D0%B2_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg"
+    },
+    "Erwin Rommel": {
+        "Born": "1891",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bundesarchiv_Bild_146-1977-018-13A%2C_Erwin_Rommel%28brighter%29.jpg"
+    },
+    "Francis Walker (entomologist)": {
+        "Born": "1809",
+        "Died": "1874",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/22/Walker_Francis_1809-1874.jpg"
+    },
+    "Oscar Hammerstein II": {
+        "Born": "1895",
+        "Died": "1960",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Oscar_Hammerstein_-_portrait.jpg"
+    },
+    "Eleanor Roosevelt": {
+        "Born": "1884",
+        "Died": "1962",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eleanor_Roosevelt_portrait_1933.jpg"
+    },
+    "Samuel Beckett": {
+        "Born": "1906",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/88/Samuel_Beckett%2C_Pic%2C_1_%28cropped%29.jpg"
+    },
+    "Adam Smith": {
+        "Born": "1723",
+        "Died": "1790",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/43/Adam_Smith_The_Muir_portrait.jpg"
+    },
+    "Andrew Johnson": {
+        "Born": "1808",
+        "Died": "1875",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg"
+    },
+    "Henry Mancini": {
+        "Born": "1924",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Henry_Mancini.jpg"
+    },
+    "Kurt Aland": {
+        "Born": "1915",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kurt_Aland_1915-1994.png"
+    },
+    "Satyajit Ray": {
+        "Born": "1921",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Satyajit_Ray_in_New_York_%28cropped%29.jpg"
+    },
+    "George Orwell": {
+        "Born": "1903",
+        "Died": "1950",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7e/George_Orwell_press_photo.jpg"
+    },
+    "George IV of the United Kingdom": {
+        "Born": "1762",
+        "Died": "1830",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ef/George_IV_1821_color.jpg"
+    },
+    "George B. McClellan": {
+        "Born": "1826",
+        "Died": "1885",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4d/George_B_McClellan_-_retouched.jpg"
+    },
+    "Walter Scott": {
+        "Born": "1771",
+        "Died": "1832",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sir_Henry_Raeburn_-_Portrait_of_Sir_Walter_Scott.jpg"
+    },
+    "Joseph Goebbels": {
+        "Born": "1897",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bundesarchiv_Bild_146-1968-101-20A%2C_Joseph_Goebbels.jpg"
+    },
+    "Swami Vivekananda": {
+        "Born": "1863",
+        "Died": "1902",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Swami_Vivekananda-1893-09-signed.jpg"
+    },
+    "Dayananda Saraswati": {
+        "Born": "1824",
+        "Died": "1883",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dayananda_Saraswati.jpg"
+    },
+    "Napoleon III": {
+        "Born": "1808",
+        "Died": "1873",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/99/Franz_Xaver_Winterhalter_Napoleon_III.jpg"
+    },
+    "Patrick Moore": {
+        "Born": "1923",
+        "Died": "2012",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Sir_Patrick_Moore_at_the_opening_of_the_South_Downs_Planetarium.jpg"
+    },
+    "Karl D\u00f6nitz": {
+        "Born": "1891",
+        "Died": "1980",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bundesarchiv_Bild_146-1976-127-06A%2C_Karl_D%C3%B6nitz.jpg"
+    },
+    "H. G. Wells": {
+        "Born": "1866",
+        "Died": "1946",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4b/H.G._Wells_by_Beresford.jpg"
+    },
+    "Thomas Edison": {
+        "Born": "1847",
+        "Died": "1931",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg"
+    },
+    "Henrik Ibsen": {
+        "Born": "1828",
+        "Died": "1906",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/51/Henrik_Ibsen_by_Gustav_Borgen_NFB-19775.jpg"
+    },
+    "William Morris": {
+        "Born": "1834",
+        "Died": "1896",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8a/William_Morris_age_53.jpg"
+    },
+    "Joseph Haydn": {
+        "Born": "1732",
+        "Died": "1809",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg"
+    },
+    "Lord Byron": {
+        "Born": "1788",
+        "Died": "1824",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg"
+    },
+    "Pope Pius IX": {
+        "Born": "1792",
+        "Died": "1878",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pius_ix_dalessandri_1862.jpg"
+    },
+    "James Stewart": {
+        "Born": "1908",
+        "Died": "1997",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Annex_-_Stewart%2C_James_%28Call_Northside_777%29_01.jpg"
+    },
+    "No\u00ebl Coward": {
+        "Born": "1899",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Noel_Coward_Allan_warren_edit_1.jpg"
+    },
+    "Thurgood Marshall": {
+        "Born": "1908",
+        "Died": "1993",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Thurgood-marshall-2.jpg"
+    },
+    "Salvador Dal\u00ed": {
+        "Born": "1904",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/24/Salvador_Dal%C3%AD_1939.jpg"
+    },
+    "George II of Great Britain": {
+        "Born": "1683",
+        "Died": "1760",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cf/George_II_by_Thomas_Hudson.jpg"
+    },
+    "Arthur Conan Doyle": {
+        "Born": "1859",
+        "Died": "1930",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Conan_doyle.jpg"
+    },
+    "James Monroe": {
+        "Born": "1758",
+        "Died": "1831",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d4/James_Monroe_White_House_portrait_1819.jpg"
+    },
+    "Frederick Douglass": {
+        "Born": "1818",
+        "Died": "1895",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Frederick_Douglass_%28circa_1879%29.jpg"
+    },
+    "Milton Friedman": {
+        "Born": "1912",
+        "Died": "2006",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/20/Portrait_of_Milton_Friedman.jpg"
+    },
+    "Harold Wilson": {
+        "Born": "1916",
+        "Died": "1995",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/51/Harold_Wilson.jpg"
+    },
+    "Chiang Kai-shek": {
+        "Born": "1887",
+        "Died": "1975",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg"
+    },
+    "Anton Chekhov": {
+        "Born": "1860",
+        "Died": "1904",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Anton_Chekhov_with_bow-tie_sepia_image.jpg"
+    },
+    "Jean-Paul Sartre": {
+        "Born": "1905",
+        "Died": "1980",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sartre_1967_crop.jpg"
+    },
+    "Joe DiMaggio": {
+        "Born": "1914",
+        "Died": "1999",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Joe_Dimaggio_%2846604499394%29.jpg"
+    },
+    "Dean Martin": {
+        "Born": "1917",
+        "Died": "1995",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dean_Martin_-_publicity.JPG"
+    },
+    "Anne Queen of Great Britain": {
+        "Born": "1665",
+        "Died": "1714",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg"
+    },
+    "Georg Wilhelm Friedrich Hegel": {
+        "Born": "1770",
+        "Died": "1831",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hegel_by_Schlesinger.jpg"
+    },
+    "Robert Louis Stevenson": {
+        "Born": "1850",
+        "Died": "1894",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg"
+    },
+    "Katharine Hepburn": {
+        "Born": "1907",
+        "Died": "2003",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/08/Katharine_Hepburn_promo_pic.jpg"
+    },
+    "Martin Van Buren": {
+        "Born": "1782",
+        "Died": "1862",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Martin_Van_Buren.jpg"
+    },
+    "Carl Jung": {
+        "Born": "1875",
+        "Died": "1961",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/00/CGJung.jpg"
+    },
+    "Claude Debussy": {
+        "Born": "1862",
+        "Died": "1918",
+        "link": "https://upload.wikimedia.org/wikipedia/en/b/b4/Claude_Debussy_atelier_Nadar.jpg"
+    },
+    "Ramakrishna": {
+        "Born": "1836",
+        "Died": "1886",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ramakrishna.jpg"
+    },
+    "Warren G. Harding": {
+        "Born": "1865",
+        "Died": "1923",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg"
+    },
+    "Gene Roddenberry": {
+        "Born": "1921",
+        "Died": "1991",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gene_Roddenberry_crop.jpg"
+    },
+    "Benny Goodman": {
+        "Born": "1909",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/42/Benny_Goodman_1942.jpg"
+    },
+    "Lewis Carroll": {
+        "Born": "1832",
+        "Died": "1898",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fb/LewisCarrollSelfPhoto.jpg"
+    },
+    "Nat King Cole": {
+        "Born": "1919",
+        "Died": "1965",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/83/Nat_King_Cole_%28Gottlieb_01511%29.jpg"
+    },
+    "Byron White": {
+        "Born": "1917",
+        "Died": "2002",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/48/Justice_White_Official.jpg"
+    },
+    "Caspar Ren\u00e9 Gregory": {
+        "Born": "1846",
+        "Died": "1917",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Caspar_Ren%C3%A9_Gregory.jpg"
+    },
+    "Lucille Ball": {
+        "Born": "1911",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/LDBALL1950s.jpg"
+    },
+    "Robert Burns": {
+        "Born": "1759",
+        "Died": "1796",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fb/PG_1063Burns_Naysmithcrop.jpg"
+    },
+    "Bette Davis": {
+        "Born": "1908",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bette_Davis.jpg"
+    },
+    "John Cage": {
+        "Born": "1912",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/23/John_Cage_%281988%29.jpg"
+    },
+    "H. P. Lovecraft": {
+        "Born": "1890",
+        "Died": "1937",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/10/H._P._Lovecraft%2C_June_1934.jpg"
+    },
+    "Hank Williams": {
+        "Born": "1923",
+        "Died": "1953",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hank_Williams_Promotional_Photo.jpg"
+    },
+    "John Paul Stevens": {
+        "Born": "1920",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3b/John_Paul_Stevens%2C_SCOTUS_photo_portrait.jpg"
+    },
+    "Malcolm X": {
+        "Born": "1925",
+        "Died": "1965",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/49/Malcolm-x.jpg"
+    },
+    "Samuel Johnson": {
+        "Born": "1709",
+        "Died": "1784",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/20/Samuel_Johnson_by_Joshua_Reynolds.jpg"
+    },
+    "L\u00e9on Degrelle": {
+        "Born": "1906",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/af/L%C3%A9on_Degrelle_portrait.jpg"
+    },
+    "Vincent van Gogh": {
+        "Born": "1853",
+        "Died": "1890",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg"
+    },
+    "Friedrich Schiller": {
+        "Born": "1759",
+        "Died": "1805",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/74/Friedrich_Schiller_by_Ludovike_Simanowiz.jpg"
+    },
+    "Narayana Guru": {
+        "Born": "1854",
+        "Died": "1928",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/03/Narayana_Guru.jpg"
+    },
+    "Otto von Bismarck": {
+        "Born": "1815",
+        "Died": "1898",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck.jpg"
+    },
+    "Marlon Brando": {
+        "Born": "1924",
+        "Died": "2004",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Marlon_Brando_%28cropped%29.jpg"
+    },
+    "William Rehnquist": {
+        "Born": "1924",
+        "Died": "2005",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/31/William_Rehnquist.jpg"
+    },
+    "Alexander I of Russia": {
+        "Born": "1777",
+        "Died": "1825",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Alexander_I_of_Russia_by_G.Dawe_%281826%2C_Peterhof%29.jpg"
+    },
+    "Jerome Kern": {
+        "Born": "1885",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jerome-Kern-1934.jpg"
+    },
+    "James Buchanan": {
+        "Born": "1791",
+        "Died": "1868",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/95/Appletons%27_Buchanan_James.jpg"
+    },
+    "B.B. King": {
+        "Born": "1925",
+        "Died": "2015",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/55/B.B._King_%2846264650642%29.jpg"
+    },
+    "Vladimir K. Zworykin": {
+        "Born": "1888",
+        "Died": "1982",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/98/Zvorykin0.jpg"
+    },
+    "Angela Lansbury": {
+        "Born": "1925",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Angela_Lansbury_%288356239174%29.jpg"
+    },
+    "Ayn Rand": {
+        "Born": "1905",
+        "Died": "1982",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg"
+    },
+    "Agatha Christie": {
+        "Born": "1890",
+        "Died": "1976",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Agatha_Christie.png"
+    },
+    "William James": {
+        "Born": "1842",
+        "Died": "1910",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9c/William_James_b1842c.jpg"
+    },
+    "Thelonious Monk": {
+        "Born": "1917",
+        "Died": "1982",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/97/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg"
+    },
+    "Pierre Trudeau": {
+        "Born": "1919",
+        "Died": "2000",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Pierre_Trudeau_%281975%29.jpg"
+    },
+    "Louis Mountbatten 1st Earl Mountbatten": {
+        "Born": "1900",
+        "Died": "1979",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lord_Mountbatten_Naval_in_colour_Allan_Warren.jpg"
+    },
+    "Ralph Waldo Emerson": {
+        "Born": "1803",
+        "Died": "1882",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg"
+    },
+    "Dmitri Shostakovich": {
+        "Born": "1906",
+        "Died": "1975",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dmitri_Shostakovich_credit_Deutsche_Fotothek_adjusted.jpg"
+    },
+    "Asa Gray": {
+        "Born": "1810",
+        "Died": "1888",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Asa_Gray_1870s.jpg"
+    },
+    "Peter the Great": {
+        "Born": "1672",
+        "Died": "1725",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Peter_de_Grote.jpg"
+    },
+    "Thomas Paine": {
+        "Born": "1737",
+        "Died": "1809",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Thomas_Paine.jpg"
+    },
+    "Daniel Coit Gilman": {
+        "Born": "1831",
+        "Died": "1908",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/48/Daniel_Coit_Gilman1.jpg"
+    },
+    "Johan Christian Fabricius": {
+        "Born": "1745",
+        "Died": "1808",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3a/J._C._Fabricius_%28d%C3%A9tail%29.jpg"
+    },
+    "Thomas William Webb": {
+        "Born": "1807",
+        "Died": "1885",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/14/TWWebb.jpg"
+    },
+    "Robert F. Kennedy": {
+        "Born": "1925",
+        "Died": "1968",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Robert_F_Kennedy_crop.jpg"
+    },
+    "Lou Gehrig": {
+        "Born": "1903",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/Lou_Gehrig_as_a_new_Yankee_11_Jun_1923.jpg"
+    },
+    "Louis XVI of France": {
+        "Born": "1754",
+        "Died": "1793",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg"
+    },
+    "Gustav Mahler": {
+        "Born": "1860",
+        "Died": "1911",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/06/Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg"
+    },
+    "Joseph Smith": {
+        "Born": "1805",
+        "Died": "1844",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/86/Joseph_Smith%2C_Jr._portrait_owned_by_Joseph_Smith_III.jpg"
+    },
+    "Robert Altman": {
+        "Born": "1925",
+        "Died": "2006",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/93/Robert_Altman_02_%28cropped%29.jpg"
+    },
+    "Deng Xiaoping": {
+        "Born": "1904",
+        "Died": "1997",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/16/Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored%28cropped%29.jpg"
+    },
+    "Harold Arlen": {
+        "Born": "1905",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Harold_Arlen_1960.jpg"
+    },
+    "Giacomo Puccini": {
+        "Born": "1858",
+        "Died": "1924",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9b/GiacomoPuccini.jpg"
+    },
+    "Albert G\u00fcnther": {
+        "Born": "1830",
+        "Died": "1914",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/47/Gunther_Albert_1830-1914.png"
+    },
+    "Franz Joseph I of Austria": {
+        "Born": "1830",
+        "Died": "1916",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Emperor_Francis_Joseph.jpg"
+    },
+    "Jonathan Swift": {
+        "Born": "1667",
+        "Died": "1745",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jonathan_Swift_by_Charles_Jervas_detail.jpg"
+    },
+    "Nicholas II of Russia": {
+        "Born": "1868",
+        "Died": "1918",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/27/Nicholas_II_by_Boissonnas_%26_Eggler_c1909.jpg"
+    },
+    "Samuel Taylor Coleridge": {
+        "Born": "1772",
+        "Died": "1834",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/91/SamuelTaylorColeridge.jpg"
+    },
+    "John Gielgud": {
+        "Born": "1904",
+        "Died": "2000",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/53/JG-Benedick-1959.jpg"
+    },
+    "Sergei Prokofiev": {
+        "Born": "1891",
+        "Died": "1953",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg"
+    },
+    "Atal Bihari Vajpayee": {
+        "Born": "1924",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cd/The_Prime_Minister_Shri_Atal_Bihari_Vajpayee_delivering_his_speech_at_the_12th_SAARC_Summit_in_Islamabad%2C_Pakistan_on_January_4%2C_2004_%281%29_%28cropped%29.jpg"
+    },
+    "Jagadish Chandra Bose": {
+        "Born": "1858",
+        "Died": "1937",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Jagadish_Chandra_Bose_1926.jpg"
+    },
+    "Maurice Ravel": {
+        "Born": "1875",
+        "Died": "1937",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Maurice_Ravel_1925.jpg"
+    },
+    "William Tecumseh Sherman": {
+        "Born": "1820",
+        "Died": "1891",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/49/General_William_T._Sherman_%284190887790%29_%28cropped%29.jpg"
+    },
+    "Arnold Schoenberg": {
+        "Born": "1874",
+        "Died": "1951",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg"
+    },
+    "Louis XVIII of France": {
+        "Born": "1755",
+        "Died": "1824",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg"
+    },
+    "Edmund Burke": {
+        "Born": "1729",
+        "Died": "1797",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a2/EdmundBurke1771.jpg"
+    },
+    "Tennessee Williams": {
+        "Born": "1911",
+        "Died": "1983",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tennessee_Williams_NYWTS.jpg"
+    },
+    "Ray Bradbury": {
+        "Born": "1920",
+        "Died": "2012",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ray_Bradbury_%281975%29_-cropped-.jpg"
+    },
+    "Akira Kurosawa": {
+        "Born": "1910",
+        "Died": "1998",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg"
+    },
+    "Ted Williams": {
+        "Born": "1918",
+        "Died": "2002",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/be/Portrait_of_Boston_Red_Sox_legend_Ted_Williams_Sarasota%2C_Florida.jpg"
+    },
+    "John C. Fr\u00e9mont": {
+        "Born": "1813",
+        "Died": "1890",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/98/John_Charles_Fremont.jpg"
+    },
+    "David Ben-Gurion": {
+        "Born": "1886",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ben_Gurion_1959.jpg"
+    },
+    "Ludwig Wittgenstein": {
+        "Born": "1889",
+        "Died": "1951",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/60/35._Portrait_of_Wittgenstein.jpg"
+    },
+    "Marie Antoinette": {
+        "Born": "1755",
+        "Died": "1793",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Marie_Antoinette_Adult.jpg"
+    },
+    "Friedrich Guggenberger": {
+        "Born": "1915",
+        "Died": "1988",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bundesarchiv_Bild_183-B13197%2C_Friedrich_Guggenberger.jpg"
+    },
+    "Henry James": {
+        "Born": "1843",
+        "Died": "1916",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/08/Henry_James.jpg"
+    },
+    "Jules Verne": {
+        "Born": "1828",
+        "Died": "1905",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg"
+    },
+    "Kirk Douglas": {
+        "Born": "1916",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Kirk_douglas_photo_signed.JPG"
+    },
+    "Kurt Weill": {
+        "Born": "1900",
+        "Died": "1950",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bundesarchiv_Bild_146-2005-0119%2C_Kurt_Weill.jpg"
+    },
+    "Otto Kretschmer": {
+        "Born": "1912",
+        "Died": "1998",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bundesarchiv_Bild_183-L22207%2C_Kapit%C3%A4nleutnant_Otto_Kretschmer.jpg"
+    },
+    "Sammy Cahn": {
+        "Born": "1913",
+        "Died": "1993",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sammy_Cahn_1950s.JPG"
+    },
+    "Ingmar Bergman": {
+        "Born": "1918",
+        "Died": "2007",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ingmar_Bergman_%281966%29.jpg"
+    },
+    "Daniel Webster": {
+        "Born": "1782",
+        "Died": "1852",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Daniel_Webster.jpg"
+    },
+    "Peter Kropotkin": {
+        "Born": "1842",
+        "Died": "1921",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/59/Peter_Kropotkin_circa_1900.jpg"
+    },
+    "Ferdinand Marcos": {
+        "Born": "1917",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ferdinand_Marcos.JPEG"
+    },
+    "Charlie Parker": {
+        "Born": "1920",
+        "Died": "1955",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/82/Portrait_of_Charlie_Parker_in_1947.jpg"
+    },
+    "Federico Fellini": {
+        "Born": "1920",
+        "Died": "1993",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/97/Federico_Fellini_NYWTS_2.jpg"
+    },
+    "William Wordsworth": {
+        "Born": "1770",
+        "Died": "1850",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Wordsworth_on_Helvellyn_by_Benjamin_Robert_Haydon.jpg"
+    },
+    "Andrew Carnegie": {
+        "Born": "1835",
+        "Died": "1919",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Andrew_Carnegie%2C_three-quarter_length_portrait%2C_seated%2C_facing_slightly_left%2C_1913.jpg"
+    },
+    "Brigham Young": {
+        "Born": "1801",
+        "Died": "1877",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/20/Brigham_Young_by_Charles_William_Carter.jpg"
+    },
+    "Benjamin Harrison": {
+        "Born": "1833",
+        "Died": "1901",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg"
+    },
+    "Georges Cuvier": {
+        "Born": "1769",
+        "Died": "1832",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Georges_Cuvier.png"
+    },
+    "Clement Attlee": {
+        "Born": "1883",
+        "Died": "1967",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/36/Clement-Attlee.jpg"
+    },
+    "Aaron Copland": {
+        "Born": "1900",
+        "Died": "1990",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/05/Aaron_Copland_1970.JPG"
+    },
+    "Mikhail Bakunin": {
+        "Born": "1814",
+        "Died": "1876",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bakunin_Nadar.jpg"
+    },
+    "Lorenz Hart": {
+        "Born": "1895",
+        "Died": "1943",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Rodgers_and_Hart_NYWTS.jpg"
+    },
+    "Henry Fonda": {
+        "Born": "1905",
+        "Died": "1982",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Henry_Fonda_in_Warlock.jpg"
+    },
+    "Queen Elizabeth The Queen Mother": {
+        "Born": "1900",
+        "Died": "2002",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg"
+    },
+    "Louis XV of France": {
+        "Born": "1710",
+        "Died": "1774",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/51/Louis_XV_by_Maurice-Quentin_de_La_Tour.jpg"
+    },
+    "Johannes Steinhoff": {
+        "Born": "1913",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_146-1997-041-03%2C_Johannes_Steinhoff.jpg"
+    },
+    "John Huston": {
+        "Born": "1906",
+        "Died": "1987",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/80/John_Huston_-_publicity.JPG"
+    },
+    "Bob Dole": {
+        "Born": "1923",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bob_Dole%2C_PCCWW_photo_portrait.JPG"
+    },
+    "Jack Lemmon": {
+        "Born": "1925",
+        "Died": "2001",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Jack_Lemmon_-_1968.jpg"
+    },
+    "Earl Warren": {
+        "Born": "1891",
+        "Died": "1974",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/04/Earl_Warren.jpg"
+    },
+    "Erich Topp": {
+        "Born": "1914",
+        "Died": "2005",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/69/Erich_Topp.jpg"
+    },
+    "Friedrich Engels": {
+        "Born": "1820",
+        "Died": "1895",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/21/Friedrich_Engels_portrait_%28cropped%29.jpg"
+    },
+    "Rutherford B. Hayes": {
+        "Born": "1822",
+        "Died": "1893",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg"
+    },
+    "Henry Clay": {
+        "Born": "1777",
+        "Died": "1852",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Henry_Clay_1848_restored.jpg"
+    },
+    "Heinrich Trettner": {
+        "Born": "1907",
+        "Died": "2006",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bundesarchiv_Bild_146-1970-016-17%2C_Heinz_Trettner.jpg"
+    },
+    "Hans Christian Andersen": {
+        "Born": "1805",
+        "Died": "1875",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/75/HCA_by_Thora_Hallager_1869.jpg"
+    },
+    "John Wesley": {
+        "Born": "1703",
+        "Died": "1791",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/ce/John_Wesley_by_George_Romney.jpg"
+    },
+    "B\u00e9la Bart\u00f3k": {
+        "Born": "1881",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg"
+    },
+    "A. C. Bhaktivedanta Swami Prabhupada": {
+        "Born": "1896",
+        "Died": "1977",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Prabhupada_singing_%28Germany_1974%29.jpg"
+    },
+    "Werner Hartmann": {
+        "Born": "1902",
+        "Died": "1963",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Werner.hartmann.jpg"
+    },
+    "Herbert Schultze": {
+        "Born": "1909",
+        "Died": "1987",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/de/Herbert_Schultze.jpg"
+    },
+    "John Ruskin": {
+        "Born": "1819",
+        "Died": "1900",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0a/John_Ruskin_1863.jpg"
+    },
+    "Gamal Abdel Nasser": {
+        "Born": "1918",
+        "Died": "1970",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nasser_portrait2.jpg"
+    },
+    "Frederick Henry Ambrose Scrivener": {
+        "Born": "1813",
+        "Died": "1891",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/16/Scrivener.JPG"
+    },
+    "Joseph II Holy Roman Emperor": {
+        "Born": "1741",
+        "Died": "1790",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/85/Carl_von_Sales_Bildnis_Joseph_II_posthum_1823.jpg"
+    },
+    "Hans-G\u00fcnther Lange": {
+        "Born": "1916",
+        "Died": "2014",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Ravi Shankar": {
+        "Born": "1920",
+        "Died": "2012",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/60/Ravi_Shankar.jpg"
+    },
+    "Franz Kafka": {
+        "Born": "1883",
+        "Died": "1924",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kafka.jpg"
+    },
+    "Gioachino Rossini": {
+        "Born": "1792",
+        "Died": "1868",
+        "link": "https://upload.wikimedia.org/wikipedia/en/9/90/Rossini_young-circa-1815.jpg"
+    },
+    "Theodor Eicke": {
+        "Born": "1892",
+        "Died": "1943",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bundesarchiv_Bild_146-1974-160-13A%2C_Theodor_Eicke.jpg"
+    },
+    "Th\u00e9r\u00e8se of Lisieux": {
+        "Born": "1873",
+        "Died": "1897",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg"
+    },
+    "Pierre Boulez": {
+        "Born": "1925",
+        "Died": "2016",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pierre_Boulez_%281968%29.jpg"
+    },
+    "John C. Calhoun": {
+        "Born": "1782",
+        "Died": "1850",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6e/George_Peter_Alexander_Healy_-_John_C._Calhoun_-_Google_Art_Project.jpg"
+    },
+    "Lee de Forest": {
+        "Born": "1873",
+        "Died": "1961",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lee_De_Forest.jpg"
+    },
+    "Nicholas I of Russia": {
+        "Born": "1796",
+        "Died": "1855",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Franz_Kr%C3%BCger_-_Portrait_of_Emperor_Nicholas_I_-_WGA12289.jpg"
+    },
+    "Cary Grant": {
+        "Born": "1904",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/27/Grant%2C_Cary_%28Suspicion%29_01_Crisco_edit.jpg"
+    },
+    "Friedrich August Freiherr von der Heydte": {
+        "Born": "1907",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bundesarchiv_Bild_183-H26044%2C_Friedrich_August_v._der_Heydte.jpg"
+    },
+    "John Logie Baird": {
+        "Born": "1888",
+        "Died": "1946",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/80/John_Logie_Baird_in_1917.jpg"
+    },
+    "Benjamin Disraeli": {
+        "Born": "1804",
+        "Died": "1881",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Benjamin_Disraeli_by_Cornelius_Jabez_Hughes%2C_1878.jpg"
+    },
+    "Heinz Guderian": {
+        "Born": "1888",
+        "Died": "1954",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Heinz_Guderian_portrait.jpg"
+    },
+    "Billy Wilder": {
+        "Born": "1906",
+        "Died": "2002",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/76/Gloria_Swanson_%26_Billy_Wilder_-_ca._1950.JPG"
+    },
+    "Mel Blanc": {
+        "Born": "1908",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mel_Blanc_-_1959.jpg"
+    },
+    "Yogi Berra": {
+        "Born": "1925",
+        "Died": "2015",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f1/1953_Bowman_Yogi_Berra.jpg"
+    },
+    "Leo Durocher": {
+        "Born": "1905",
+        "Died": "1991",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Leo_Durocher.png"
+    },
+    "Ezra Pound": {
+        "Born": "1885",
+        "Died": "1972",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lustra_%28private_print%29_-_Ezra_Pound_-_Frontispiece.jpg"
+    },
+    "Pope Benedict XV": {
+        "Born": "1854",
+        "Died": "1922",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/32/Benedictus_XV.jpg"
+    },
+    "G\u00fcnther Rall": {
+        "Born": "1918",
+        "Died": "2009",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bundesarchiv_Bild_183-J1112-0206-004%2C_G%C3%BCnther_Rall.jpg"
+    },
+    "George I of Great Britain": {
+        "Born": "1660",
+        "Died": "1727",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/02/King_George_I_by_Sir_Godfrey_Kneller%2C_Bt_%283%29.jpg"
+    },
+    "Jane Austen": {
+        "Born": "1775",
+        "Died": "1817",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg"
+    },
+    "Barry Goldwater": {
+        "Born": "1909",
+        "Died": "1998",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/19/Senator_Goldwater_1960.jpg"
+    },
+    "Smilo Freiherr von L\u00fcttwitz": {
+        "Born": "1895",
+        "Died": "1976",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Smilo_von_L%C3%BCttwitz.JPG"
+    },
+    "John Edward Gray": {
+        "Born": "1800",
+        "Died": "1875",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d3/John-Edward-Gray-1851.jpg"
+    },
+    "Hans Kroh": {
+        "Born": "1907",
+        "Died": "1967",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bundesarchiv_Bild_146-1979-128-32%2C_Hans_Kroh.jpg"
+    },
+    "Charles Wheatstone": {
+        "Born": "1802",
+        "Died": "1875",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wheatstone_Charles_drawing_1868.jpg"
+    },
+    "Kurt Student": {
+        "Born": "1890",
+        "Died": "1978",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bundesarchiv_Bild_146-1979-128-26%2C_Bernhard-Hermann_Ramcke%2C_Kurt_Student_crop.jpg"
+    },
+    "Rudolf Witzig": {
+        "Born": "1916",
+        "Died": "2001",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Charles III of Spain": {
+        "Born": "1716",
+        "Died": "1788",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Charles_III_of_Spain_high_resolution.jpg"
+    },
+    "Shimon Peres": {
+        "Born": "1923",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/21/Shimon_Peres_in_Brazil_%28cropped_2%29.jpg"
+    },
+    "Gregory Peck": {
+        "Born": "1916",
+        "Died": "2003",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Gregory_Peck_Allan_Warren.jpg"
+    },
+    "Walter Gericke": {
+        "Born": "1907",
+        "Died": "1991",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bundesarchiv_Bild_183-2005-0808-506%2C_Walter_Gericke.jpg"
+    },
+    "Charlton Heston": {
+        "Born": "1923",
+        "Died": "2008",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Charlton_Heston.jpg"
+    },
+    "Gerhart Schirmer": {
+        "Born": "1913",
+        "Died": "2004",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Zachary Taylor": {
+        "Born": "1784",
+        "Died": "1850",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/51/Zachary_Taylor_restored_and_cropped.jpg"
+    },
+    "W. B. Yeats": {
+        "Born": "1865",
+        "Died": "1939",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/62/Yeats_Boughton.jpg"
+    },
+    "Edward VIII": {
+        "Born": "1894",
+        "Died": "1972",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Prince-Edward-Duke-of-Windsor-King-Edward-VIII_%28retouched%29.jpg"
+    },
+    "Francis II Holy Roman Emperor": {
+        "Born": "1768",
+        "Died": "1835",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Francis_II%2C_Holy_Roman_Emperor_at_age_25%2C_1792.png"
+    },
+    "Fran\u00e7ois Mitterrand": {
+        "Born": "1916",
+        "Died": "1996",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4e/President_Mitterand_bij_slotzitting_Europa_Congres_Mitterand%2C_kop%2C_Bestanddeelnr_934-2444_%28portrait_crop%29.jpg"
+    },
+    "Alec Guinness": {
+        "Born": "1914",
+        "Died": "2000",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sir_Alec_Guinness_Allan_Warren_%282%29.jpg"
+    },
+    "Friedrich Lang": {
+        "Born": "1915",
+        "Died": "2003",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/20/Fritz_Lang_%281969%29.jpg"
+    },
+    "Hubert Humphrey": {
+        "Born": "1911",
+        "Died": "1978",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/23/Hubert_Humphrey_vice_presidential_portrait.jpg"
+    },
+    "Menachem Begin": {
+        "Born": "1913",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Menachem_Begin_2_%28cropped%29.jpg"
+    },
+    "Susan B. Anthony": {
+        "Born": "1820",
+        "Died": "1906",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Susan_B_Anthony_c1855.png"
+    },
+    "Winfield Scott": {
+        "Born": "1786",
+        "Died": "1866",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/96/Winfield_Scott_by_Fredricks%2C_1862.jpg"
+    },
+    "Herbert Spencer": {
+        "Born": "1820",
+        "Died": "1903",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/96/Herbert_Spencer.jpg"
+    },
+    "Muhammad Ali Jinnah": {
+        "Born": "1876",
+        "Died": "1948",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Jinnah1945c.jpg"
+    },
+    "Ty Cobb": {
+        "Born": "1886",
+        "Died": "1961",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2a/1913_Ty_Cobb_portrait_photo.png"
+    },
+    "William Penn": {
+        "Born": "1644",
+        "Died": "1718",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6a/William_Penn.png"
+    },
+    "William Henry Harrison": {
+        "Born": "1773",
+        "Died": "1841",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg"
+    },
+    "Arthur Miller": {
+        "Born": "1915",
+        "Died": "2005",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/Arthur-miller.jpg"
+    },
+    "S\u00f8ren Kierkegaard": {
+        "Born": "1813",
+        "Died": "1855",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg"
+    },
+    "Bernd Klug": {
+        "Born": "1914",
+        "Died": "1976",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/11/1966_FAdm_Klug.jpg"
+    },
+    "Herbert L\u00fctje": {
+        "Born": "1918",
+        "Died": "1967",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_Bild_183-2008-0505-501%2C_Herbert_L%C3%BCtje.jpg"
+    },
+    "William Jennings Bryan": {
+        "Born": "1860",
+        "Died": "1925",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9e/BRYAN%2C_WILLIAM_JENNINGS_LCCN2016856655_%28cropped%29.jpg"
+    },
+    "William IV of the United Kingdom": {
+        "Born": "1765",
+        "Died": "1837",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/47/William_IV_crop.jpg"
+    },
+    "Walt Whitman": {
+        "Born": "1819",
+        "Died": "1892",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Walt_Whitman_-_George_Collins_Cox.jpg"
+    },
+    "Emma Goldman": {
+        "Born": "1869",
+        "Died": "1940",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/03/Emma_Goldman_seated.jpg"
+    },
+    "Otto Pollmann": {
+        "Born": "1915",
+        "Died": "1958",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Kurt Plenzat": {
+        "Born": "1912",
+        "Died": "1998",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Bruno Dilley": {
+        "Born": "1913",
+        "Died": "1968",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Hendrik Stahl": {
+        "Born": "1921",
+        "Died": "2004",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Joachim Domaschk": {
+        "Born": "1914",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Cecil B. DeMille": {
+        "Born": "1881",
+        "Died": "1959",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Demille_-_c1920.JPG"
+    },
+    "Jimmy Van Heusen": {
+        "Born": "1913",
+        "Died": "1990",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Jimmy_Van_Heusen_%282%29.jpg"
+    },
+    "Horst Niemack": {
+        "Born": "1909",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bundesarchiv_Bild_101I-732-0132-43A%2C_Hasso_von_Manteuffel_mit_Oberst_Niemack.jpg"
+    },
+    "Stonewall Jackson": {
+        "Born": "1824",
+        "Died": "1863",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Stonewall_Jackson_by_Routzahn%2C_1862.png"
+    },
+    "Arthur Schopenhauer": {
+        "Born": "1788",
+        "Died": "1860",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg"
+    },
+    "Sun Yat-sen": {
+        "Born": "1866",
+        "Died": "1925",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg"
+    },
+    "Harriet Tubman": {
+        "Born": "1820",
+        "Died": "1913",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/96/Harriet_Tubman_by_Squyer%2C_NPG%2C_c1885.jpg"
+    },
+    "Yitzhak Rabin": {
+        "Born": "1922",
+        "Died": "1995",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flickr_-_Israel_Defense_Forces_-_Life_of_Lt._Gen._Yitzhak_Rabin%2C_7th_IDF_Chief_of_Staff_in_photos_%2811%29.jpg"
+    },
+    "Alexander L\u00f6hr": {
+        "Born": "1885",
+        "Died": "1947",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bundesarchiv_Bild_146-1969-041-30%2C_Alexander_L%C3%B6hr.jpg"
+    },
+    "Erich von Manstein": {
+        "Born": "1887",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bundesarchiv_Bild_183-H01757%2C_Erich_von_Manstein.jpg"
+    },
+    "Hector Berlioz": {
+        "Born": "1803",
+        "Died": "1869",
+        "link": "https://upload.wikimedia.org/wikipedia/en/f/fd/Hector-Berlioz-1845.png"
+    },
+    "Mickey Rooney": {
+        "Born": "1920",
+        "Died": "2014",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Mickey_Rooney_Mickey_Rooney_Show_1954.JPG"
+    },
+    "Catherine the Great": {
+        "Born": "1729",
+        "Died": "1796",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Catherine_II_by_J.B.Lampi_%281780s%2C_Kunsthistorisches_Museum%29.jpg"
+    },
+    "Humphrey Bogart": {
+        "Born": "1899",
+        "Died": "1957",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/84/Humphrey_Bogart_1940.jpg"
+    },
+    "James K. Polk": {
+        "Born": "1795",
+        "Died": "1849",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f8/James_Polk_restored.jpg"
+    },
+    "Gerhard Behnke": {
+        "Born": "1910",
+        "Died": "1962",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Konrad Sauer": {
+        "Born": "1915",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Franz Kieslich": {
+        "Born": "1913",
+        "Died": "2012",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Karl Henze": {
+        "Born": "1916",
+        "Died": "1985",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Edelgard_Huber_von_Gersdorff_2.2.2018_EUROPE_DIRECT.png"
+    },
+    "Henry Ford": {
+        "Born": "1863",
+        "Died": "1947",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg"
+    },
+    "Willy Langkeit": {
+        "Born": "1907",
+        "Died": "1969",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/15/Bundesarchiv_Bild_101I-712-0498-34%2C_Russland%2C_Oberst_Langkeit%2C_Panzer_V_%22Panther%22.jpg"
+    },
+    "G\u00fcnther Pape": {
+        "Born": "1907",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bundesarchiv_Bild_183-B16918%2C_G%C3%BCnther_Pape.jpg"
+    },
+    "Anton\u00edn Dvo\u0159\u00e1k": {
+        "Born": "1841",
+        "Died": "1904",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/12/Dvorak.jpg"
+    },
+    "Arthur J\u00fcttner": {
+        "Born": "1908",
+        "Died": "2003",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Fran\u00e7ois-Ren\u00e9 de Chateaubriand": {
+        "Born": "1768",
+        "Died": "1848",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Anne-Louis_Girodet-Trioson_006.jpg"
+    },
+    "Carl Gustaf Emil Mannerheim": {
+        "Born": "1867",
+        "Died": "1951",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/01/Carl_Gustaf_Emil_Mannerheim_1940.jpg"
+    },
+    "Percy Bysshe Shelley": {
+        "Born": "1792",
+        "Died": "1822",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/57/Percy_Bysshe_Shelley_by_Alfred_Clint.jpg"
+    },
+    "Henri Matisse": {
+        "Born": "1869",
+        "Died": "1954",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/76/Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg"
+    },
+    "Hans-Gotthard Pestke": {
+        "Born": "1914",
+        "Died": "2001",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Curt Gowdy": {
+        "Born": "1919",
+        "Died": "2006",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Curt_Gowdy.png"
+    },
+    "Hellmuth M\u00e4der": {
+        "Born": "1908",
+        "Died": "1984",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/90/Phil_Hellmuth_2008.jpg"
+    },
+    "Heinz-Martin Ewert": {
+        "Born": "1915",
+        "Died": "1980",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Rudolf Neubert": {
+        "Born": "1914",
+        "Died": "1995",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Chet Atkins": {
+        "Born": "1924",
+        "Died": "2001",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chet_Atkins.jpg"
+    },
+    "Neville Chamberlain": {
+        "Born": "1869",
+        "Died": "1940",
+        "link": "https://upload.wikimedia.org/wikipedia/en/9/9a/Neville_Chamberlain_by_Walter_Stoneman.jpg"
+    },
+    "Heinrich Hoffmann (naval officer)": {
+        "Born": "1910",
+        "Died": "1998",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Josef Rettemeier": {
+        "Born": "1914",
+        "Died": "1997",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Eduard Brunner (officer)": {
+        "Born": "1918",
+        "Died": "2006",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Kurt Witschel": {
+        "Born": "1915",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Bern von Baer": {
+        "Born": "1911",
+        "Died": "1981",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bern_von_Baer%2C_Wehrmacht%2C_23._Januar_1944.JPG"
+    },
+    "Othmar Pollmann": {
+        "Born": "1917",
+        "Died": "1991",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Heinz-Otto Fabian": {
+        "Born": "1918",
+        "Died": "1990",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Franz Weller": {
+        "Born": "1901",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Bruno Streckenbach": {
+        "Born": "1902",
+        "Died": "1977",
+        "link": "https://upload.wikimedia.org/wikipedia/en/4/4f/Bruno_Streckenbach.jpg"
+    },
+    "John Ford": {
+        "Born": "1894",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/04/John_Ford_1946.jpg"
+    },
+    "Isoroku Yamamoto": {
+        "Born": "1884",
+        "Died": "1943",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Isoroku_Yamamoto.jpg"
+    },
+    "Konrad Zeller": {
+        "Born": "1911",
+        "Died": "1996",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Hubert Pilarski": {
+        "Born": "1913",
+        "Died": "1996",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Herbert Wittmann": {
+        "Born": "1914",
+        "Died": "2007",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Gustav Pre\u00dfler": {
+        "Born": "1912",
+        "Died": "1985",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Martin Steglich": {
+        "Born": "1915",
+        "Died": "1997",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Wilhelm Osterhold": {
+        "Born": "1914",
+        "Died": "2002",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Heinrich Busse": {
+        "Born": "1909",
+        "Died": "1998",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Richard Seuss": {
+        "Born": "1897",
+        "Died": "1963",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ted_Geisel_NYWTS_2_crop.jpg"
+    },
+    "Josef Prentl": {
+        "Born": "1916",
+        "Died": "1996",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Curt Schille": {
+        "Born": "1910",
+        "Died": "1985",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Mother Teresa": {
+        "Born": "1910",
+        "Died": "1997",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg"
+    },
+    "Wolfgang von Obstfelder": {
+        "Born": "1918",
+        "Died": "1981",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Ernst Kuppinger": {
+        "Born": "1914",
+        "Died": "1995",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Gottfried Wilhelm Leibniz": {
+        "Born": "1646",
+        "Died": "1716",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg"
+    },
+    "William Faulkner": {
+        "Born": "1897",
+        "Died": "1962",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_Van_Vechten_-_William_Faulkner.jpg"
+    },
+    "Jule Styne": {
+        "Born": "1905",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jule_Styne_%281961_still%29.jpg"
+    },
+    "Sergei Rachmaninoff": {
+        "Born": "1873",
+        "Died": "1943",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg"
+    },
+    "Vince Lombardi": {
+        "Born": "1913",
+        "Died": "1970",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vince_lombardi_bart_starr.jpg"
+    },
+    "Arthur C. Clarke": {
+        "Born": "1917",
+        "Died": "2008",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/62/Arthur_C._Clarke_1965.jpg"
+    },
+    "Thomas Mann": {
+        "Born": "1875",
+        "Died": "1955",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thomas_Mann_1929.jpg"
+    },
+    "Robert A. Heinlein": {
+        "Born": "1907",
+        "Died": "1988",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heinlein-face.jpg"
+    },
+    "Adolf Galland": {
+        "Born": "1912",
+        "Died": "1996",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bundesarchiv_Bild_146-2006-0123%2C_Adolf_Galland.jpg"
+    },
+    "Reginald Fessenden": {
+        "Born": "1866",
+        "Died": "1932",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/01/Fessenden.JPG"
+    },
+    "Alfred Jodl": {
+        "Born": "1890",
+        "Died": "1946",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bundesarchiv_Bild_146-1971-033-01%2C_Alfred_Jodl.jpg"
+    },
+    "John von Neumann": {
+        "Born": "1903",
+        "Died": "1957",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5e/JohnvonNeumann-LosAlamos.gif"
+    },
+    "Christopher Lee": {
+        "Born": "1922",
+        "Died": "2015",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg"
+    },
+    "Buster Keaton": {
+        "Born": "1895",
+        "Died": "1966",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Busterkeaton.jpg"
+    },
+    "Leonid Brezhnev": {
+        "Born": "1906",
+        "Died": "1982",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Leonid_Brezhnev_Portrait_%281%29.jpg"
+    },
+    "Philo Farnsworth": {
+        "Born": "1906",
+        "Died": "1971",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Philo_T_Farnsworth.jpg"
+    },
+    "Philip V of Spain": {
+        "Born": "1683",
+        "Died": "1746",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Felipe_V_de_Espa%C3%B1a%2C_Rey_de.jpg"
+    },
+    "Charles XIV John of Sweden": {
+        "Born": "1763",
+        "Died": "1844",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_XIV_John_of_Sweden_%26_Norway_c_1840.jpg"
+    },
+    "Helen Hayes": {
+        "Born": "1900",
+        "Died": "1993",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Promotional_photograph_of_Helen_Hayes.jpg"
+    },
+    "\u00c9amon de Valera": {
+        "Born": "1882",
+        "Died": "1975",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/76/%C3%89amon_de_Valera.jpg"
+    },
+    "Branch Rickey": {
+        "Born": "1881",
+        "Died": "1965",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Branch_Rickey_1912.jpg"
+    },
+    "Pierre-Joseph Proudhon": {
+        "Born": "1809",
+        "Died": "1865",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Portrait_of_Pierre_Joseph_Proudhon_1865.jpg"
+    },
+    "Gerd von Rundstedt": {
+        "Born": "1875",
+        "Died": "1953",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bundesarchiv_Bild_183-S37772%2C_Gerd_v._Rundstedt.jpg"
+    },
+    "Aleister Crowley": {
+        "Born": "1875",
+        "Died": "1947",
+        "link": "https://upload.wikimedia.org/wikipedia/en/7/7e/Aleister_Crowley.jpg"
+    },
+    "Edward Heath": {
+        "Born": "1916",
+        "Died": "2005",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/16/Edward_Heath_4_Allan_Warren.jpg"
+    },
+    "Edwin Howard Armstrong": {
+        "Born": "1890",
+        "Died": "1954",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/13/EdwinHowardArmstrong.jpg"
+    },
+    "Alexander Stepanovich Popov": {
+        "Born": "1859",
+        "Died": "1906",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Alexander_Stepanovich_Popov.jpg"
+    },
+    "Subrahmanyan Chandrasekhar": {
+        "Born": "1910",
+        "Died": "1995",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/67/Subrahmanyan_Chandrasekhar.gif"
+    },
+    "Charles Lindbergh": {
+        "Born": "1902",
+        "Died": "1974",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/75/Col_Charles_Lindbergh.jpg"
+    },
+    "Denis Diderot": {
+        "Born": "1713",
+        "Died": "1784",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/63/Denis_Diderot_111.PNG"
+    },
+    "Ingrid Bergman": {
+        "Born": "1915",
+        "Died": "1982",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ingrid_Bergman%2C_Gaslight_1944.jpg"
+    },
+    "George Bentham": {
+        "Born": "1800",
+        "Died": "1884",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d4/GeorgeBentham.jpg"
+    },
+    "Franklin Pierce": {
+        "Born": "1804",
+        "Died": "1869",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop.jpg"
+    },
+    "Stanley Baldwin": {
+        "Born": "1867",
+        "Died": "1947",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/95/Stanley_Baldwin_ggbain.35233.jpg"
+    },
+    "Otto Skorzeny": {
+        "Born": "1908",
+        "Died": "1975",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Otto_Skorzeny_portait.jpg"
+    },
+    "Mary Shelley": {
+        "Born": "1797",
+        "Died": "1851",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/65/RothwellMaryShelley.jpg"
+    },
+    "Edward Drinker Cope": {
+        "Born": "1840",
+        "Died": "1897",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cope_Edward_Drinker_1840-1897.jpg"
+    },
+    "Pete Seeger": {
+        "Born": "1919",
+        "Died": "2014",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pete_Seeger_NYWTS.jpg"
+    },
+    "John C. Breckinridge": {
+        "Born": "1821",
+        "Died": "1875",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b8/John_C_Breckinridge-04775-restored.jpg"
+    },
+    "Pope John Paul I": {
+        "Born": "1912",
+        "Died": "1978",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Paus_Johannes_Paulus_I_%28kop%29%2C_Bestanddeelnr_929-9074_%28cropped%29.jpg"
+    },
+    "Sepp Dietrich": {
+        "Born": "1892",
+        "Died": "1966",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bundesarchiv_Bild_183-J27366%2C_Sepp_Dietrich.jpg"
+    },
+    "Lauren Bacall": {
+        "Born": "1924",
+        "Died": "2014",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lauren_Bacall_1945_press_photo.jpg"
+    },
+    "Richard Burton": {
+        "Born": "1925",
+        "Died": "1984",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Richard_Burton_-_The_Robe.jpg"
+    },
+    "Washington Irving": {
+        "Born": "1783",
+        "Died": "1859",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Irving-Washington-LOC.jpg"
+    },
+    "W. E. B. Du Bois": {
+        "Born": "1868",
+        "Died": "1963",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/12/WEB_DuBois_1918.jpg"
+    },
+    "Billy Graham": {
+        "Born": "1918",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/87/Conservatism_in_the_United_States_Collage_3.jpg"
+    },
+    "Albert Kesselring": {
+        "Born": "1885",
+        "Died": "1960",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bundesarchiv_Bild_183-R93434%2C_Albert_Kesselring.jpg"
+    },
+    "James Callaghan": {
+        "Born": "1912",
+        "Died": "2005",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5f/James_Callaghan_%281974%29.jpg"
+    },
+    "Camille Saint-Sa\u00ebns": {
+        "Born": "1835",
+        "Died": "1921",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/98/Saint-Sa%C3%ABns-circa-1880.jpg"
+    },
+    "Christy Mathewson": {
+        "Born": "1880",
+        "Died": "1925",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Christy_Mathewson2.jpg"
+    },
+    "Peter Sellers": {
+        "Born": "1925",
+        "Died": "1980",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/85/Peter_Sellers_at_home_in_Belgravia%2C_London%2C_1973.jpg"
+    },
+    "Alexander II of Russia": {
+        "Born": "1818",
+        "Died": "1881",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Zar_Alexander_II_%28cropped%29.jpg"
+    },
+    "Virginia Woolf": {
+        "Born": "1882",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg"
+    },
+    "Hal David": {
+        "Born": "1921",
+        "Died": "2012",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Hal_David%2C_ASCAP_concert%2C_2011.jpg"
+    },
+    "Friedrich Jeckeln": {
+        "Born": "1895",
+        "Died": "1946",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/77/FriedrichJeckeln.jpg"
+    },
+    "Hans-Ulrich Rudel": {
+        "Born": "1916",
+        "Died": "1982",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Special_Film_Project_186_-_Hans-Ulrich_Rudel.jpg"
+    },
+    "Harriet Beecher Stowe": {
+        "Born": "1811",
+        "Died": "1896",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Beecher-Stowe.jpg"
+    },
+    "Elisha Gray": {
+        "Born": "1835",
+        "Died": "1901",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Portrait_elisha_gray.jpg"
+    },
+    "Heinz Reinefarth": {
+        "Born": "1903",
+        "Died": "1979",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/14/Heinz_Reinefarth.jpg"
+    },
+    "Antonio Meucci": {
+        "Born": "1808",
+        "Died": "1889",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/75/Antonio_Meucci.jpg"
+    },
+    "Claude Chappe": {
+        "Born": "1763",
+        "Died": "1805",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/87/AduC_175_Chappe_%28Claude%2C_1765-1828%29.JPG"
+    },
+    "Hannibal Hamlin": {
+        "Born": "1809",
+        "Died": "1891",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hannibal_Hamlin%2C_photo_portrait_seated%2C_c1860-65-retouched-crop.jpg"
+    },
+    "Alexander Pushkin": {
+        "Born": "1799",
+        "Died": "1837",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/56/Portrait_of_Alexander_Pushkin_%28Orest_Kiprensky%2C_1827%29.PNG"
+    },
+    "Gene Kelly": {
+        "Born": "1912",
+        "Died": "1996",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/40/Gene_kelly.jpg"
+    },
+    "Gary Cooper": {
+        "Born": "1901",
+        "Died": "1961",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gary_Cooper_%281952%29.jpg"
+    },
+    "Jeremy Bentham": {
+        "Born": "1748",
+        "Died": "1832",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg"
+    },
+    "Eug\u00e8ne Delacroix": {
+        "Born": "1798",
+        "Died": "1863",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e9/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg"
+    },
+    "William H. Seward": {
+        "Born": "1801",
+        "Died": "1872",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f5/William_H._Seward_portrait_-_restoration.jpg"
+    },
+    "Nathaniel Hawthorne": {
+        "Born": "1804",
+        "Died": "1864",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Nathaniel_Hawthorne_by_Brady%2C_1860-64.jpg"
+    },
+    "Wilhelm II German Emperor": {
+        "Born": "1859",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kaiser_Wilhelm_II_of_Germany_-_1902.jpg"
+    },
+    "Gaetano Donizetti": {
+        "Born": "1797",
+        "Died": "1848",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Gaetano_Donizetti_%28portrait_by_Giuseppe_Rillosi%29.jpg"
+    },
+    "Hirohito": {
+        "Born": "1901",
+        "Died": "1989",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/44/Hirohito_in_dress_uniform.jpg"
+    },
+    "Casey Stengel": {
+        "Born": "1890",
+        "Died": "1975",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/62/Casey_Stengel_1953.png"
+    },
+    "Alfred Vail": {
+        "Born": "1807",
+        "Died": "1859",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Alfred_Vail.GIF"
+    },
+    "Richard Feynman": {
+        "Born": "1918",
+        "Died": "1988",
+        "link": "https://upload.wikimedia.org/wikipedia/en/4/42/Richard_Feynman_Nobel.jpg"
+    },
+    "Horatio Nelson 1st Viscount Nelson": {
+        "Born": "1758",
+        "Died": "1805",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/72/HoratioNelson1.jpg"
+    },
+    "Albert Camus": {
+        "Born": "1913",
+        "Died": "1960",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg"
+    },
+    "Werner M\u00f6lders": {
+        "Born": "1913",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bundesarchiv_Bild_146-1971-116-29%2C_Werner_M%C3%B6lders.jpg"
+    },
+    "Hermann Fegelein": {
+        "Born": "1906",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/95/Hermann_Fegelein.jpg"
+    },
+    "John Steinbeck": {
+        "Born": "1902",
+        "Died": "1968",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b9/John-Steinbeck-1939.jpg"
+    },
+    "Johann Philipp Reis": {
+        "Born": "1834",
+        "Died": "1874",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4e/JPReis.jpg"
+    },
+    "Friedrich Paulus": {
+        "Born": "1890",
+        "Died": "1957",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bundesarchiv_Bild_183-B24575%2C_Friedrich_Paulus.jpg"
+    },
+    "Joseph Bonaparte": {
+        "Born": "1768",
+        "Died": "1844",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph-Bonaparte.jpg"
+    },
+    "Enrico Fermi": {
+        "Born": "1901",
+        "Died": "1954",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Enrico_Fermi_1943-49.jpg"
+    },
+    "Phil Rizzuto": {
+        "Born": "1917",
+        "Died": "2007",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/98/Phil_Rizzuto_1953.jpg"
+    },
+    "James A. Garfield": {
+        "Born": "1831",
+        "Died": "1881",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg"
+    },
+    "Herbert A. Simon": {
+        "Born": "1916",
+        "Died": "2001",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_simon_red_complete.jpg"
+    },
+    "Iain Macleod": {
+        "Born": "1913",
+        "Died": "1970",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a3/The_National_Archives_UK_-_CO_1069-166-17_Macleod_crop.jpg"
+    },
+    "Sarvepalli Radhakrishnan": {
+        "Born": "1888",
+        "Died": "1975",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/63/Radhakrishnan1.jpg"
+    },
+    "Luis Bu\u00f1uel": {
+        "Born": "1900",
+        "Died": "1983",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/df/Luis_Bu%C3%B1uel.JPG"
+    },
+    "Eugene O'Neill": {
+        "Born": "1888",
+        "Died": "1953",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/ONeill-Eugene-LOC.jpg"
+    },
+    "John Henry Newman": {
+        "Born": "1801",
+        "Died": "1890",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ab/John_Henry_Newman_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg"
+    },
+    "Subhas Chandra Bose": {
+        "Born": "1897",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/44/Subhas_Chandra_Bose_NRB.jpg"
+    },
+    "Pearl S. Buck": {
+        "Born": "1892",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pearl_Buck_1972.jpg"
+    },
+    "Charles X of France": {
+        "Born": "1757",
+        "Died": "1836",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Carlos_X_de_Francia_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg"
+    },
+    "G\u00fcnther von Kluge": {
+        "Born": "1882",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bundesarchiv_Bild_146-1973-139-14%2C_G%C3%BCnther_v._Kluge.jpg"
+    },
+    "Mary of Teck": {
+        "Born": "1867",
+        "Died": "1953",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Queenmaryformalportrait_edit3.jpg"
+    },
+    "Rosa Parks": {
+        "Born": "1913",
+        "Died": "2005",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rosaparks.jpg"
+    },
+    "William J. Brennan Jr.": {
+        "Born": "1906",
+        "Died": "1997",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/49/US_Supreme_Court_Justice_William_Brennan_-_1976_official_portrait.jpg"
+    },
+    "Innocenzo Manzetti": {
+        "Born": "1826",
+        "Died": "1877",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Innocenzo-Manzetti.jpg"
+    },
+    "G\u00fcnther L\u00fctzow": {
+        "Born": "1912",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bundesarchiv_Bild_146-2006-0126%2C_G%C3%BCnther_L%C3%BCtzow.jpg"
+    },
+    "Alphonsus Maria de' Liguori": {
+        "Born": "1696",
+        "Died": "1787",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0a/S.-alfonso-1.gif"
+    },
+    "Otto Ernst Remer": {
+        "Born": "1912",
+        "Died": "1997",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/44/Otto_Ernst_Remer_portrait.JPG"
+    },
+    "Harold Macmillan": {
+        "Born": "1894",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/03/Harold_Macmillan.jpg"
+    },
+    "Edward Elgar": {
+        "Born": "1857",
+        "Died": "1934",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Edward_Elgar.jpg"
+    },
+    "Henry Wadsworth Longfellow": {
+        "Born": "1807",
+        "Died": "1882",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Henry_Wadsworth_Longfellow%2C_photographed_by_Julia_Margaret_Cameron_in_1868.jpg"
+    },
+    "Le Corbusier": {
+        "Born": "1887",
+        "Died": "1965",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Le_Corbusier_%281964%29.jpg"
+    },
+    "Ralph Vaughan Williams": {
+        "Born": "1872",
+        "Died": "1958",
+        "link": "https://upload.wikimedia.org/wikipedia/en/0/0d/Vaughan-williams-hopp%C3%A9.jpg"
+    },
+    "Charles VI Holy Roman Emperor": {
+        "Born": "1685",
+        "Died": "1740",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/25/Martin_van_Meytens_%28attrib.%29_-_Portr%C3%A4t_Kaiser_Karl_VI.jpg"
+    },
+    "Lewis Cass": {
+        "Born": "1782",
+        "Died": "1866",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5c/LewisCass2.jpg"
+    },
+    "Early Wynn": {
+        "Born": "1920",
+        "Died": "1999",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/37/Early_Wynn_1960.png"
+    },
+    "George McGovern": {
+        "Born": "1922",
+        "Died": "2012",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a6/GeorgeStanleyMcGovern.jpg"
+    },
+    "William Lyon Mackenzie King": {
+        "Born": "1874",
+        "Died": "1950",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/48/WilliamLyonMackenzieKing.jpg"
+    },
+    "Robert Falcon Scott": {
+        "Born": "1868",
+        "Died": "1912",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Scott_of_the_Antarctic_%28bw%29.jpg"
+    },
+    "Hermann Hoth": {
+        "Born": "1885",
+        "Died": "1971",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bundesarchiv_Bild_101I-265-0048A-03%2C_Russland%2C_Generale_v._Bock%2C_Hoth%2C_W._v._Richthofen.jpg"
+    },
+    "William S. Burroughs": {
+        "Born": "1914",
+        "Died": "1997",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/15/Burroughs1983_crop_b.jpg"
+    },
+    "Max Stirner": {
+        "Born": "1806",
+        "Died": "1856",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c3/MaxStirner1.svg"
+    },
+    "Nap Lajoie": {
+        "Born": "1874",
+        "Died": "1959",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nap_Lajoie_1913.jpg"
+    },
+    "Eugene Wigner": {
+        "Born": "1902",
+        "Died": "1995",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Wigner.jpg"
+    },
+    "Jean Cocteau": {
+        "Born": "1889",
+        "Died": "1963",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Jean_Cocteau_b_Meurisse_1923.jpg"
+    },
+    "Ernest Shackleton": {
+        "Born": "1874",
+        "Died": "1922",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ernest_Shackleton_before_1909.jpg"
+    },
+    "Marlene Dietrich": {
+        "Born": "1901",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Marlene_Dietrich_in_No_Highway_%281951%29_%28Cropped%29.png"
+    },
+    "G\u00fcnther Prien": {
+        "Born": "1908",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bundesarchiv_Bild_183-2006-1130-500%2C_Kapit%C3%A4nleutnant_G%C3%BCnther_Prien.jpg"
+    },
+    "Martin Heidegger": {
+        "Born": "1889",
+        "Died": "1976",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/64/Heidegger_2_%281960%29.jpg"
+    },
+    "Ramana Maharshi": {
+        "Born": "1879",
+        "Died": "1950",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sri_Ramana_Maharshi_-_Portrait_-_G._G_Welling_-_1948.jpg"
+    },
+    "Robert Ritter von Greim": {
+        "Born": "1892",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bundesarchiv_Bild_101I-401-0204-25%2C_Robert_Ritter_v._Greim.jpg"
+    },
+    "Hal Roach": {
+        "Born": "1892",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/72/WP_Hal_Roach_1920_%28cropped%29.jpg"
+    },
+    "Grover Cleveland Alexander": {
+        "Born": "1887",
+        "Died": "1950",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Grover_Cleveland_Alexander_by_Conlon%2C_1915-crop.jpg"
+    },
+    "Tyagaraja": {
+        "Born": "1767",
+        "Died": "1848",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tyagaraja_%28cropped%29.png"
+    },
+    "Lester B. Pearson": {
+        "Born": "1897",
+        "Died": "1972",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lester_B._Pearson_1957.jpg"
+    },
+    "Walter Oesau": {
+        "Born": "1913",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Signatur_Walter_Oesau.png"
+    },
+    "Johnny Carson": {
+        "Born": "1925",
+        "Died": "2005",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/04/Johnny_Carson_1970.JPG"
+    },
+    "Friedrich Hayek": {
+        "Born": "1899",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Friedrich_Hayek_portrait.jpg"
+    },
+    "Perry Como": {
+        "Born": "1912",
+        "Died": "2001",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Perry_Como%2C_half-length_portrait%2C_facing_slightly_right.jpg"
+    },
+    "Aldous Huxley": {
+        "Born": "1894",
+        "Died": "1963",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aldous_Huxley_psychical_researcher.png"
+    },
+    "Felix Steiner": {
+        "Born": "1896",
+        "Died": "1966",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bundesarchiv_Bild_146-1973-138-14A%2C_Felix_Steiner.jpg"
+    },
+    "George S. Kaufman": {
+        "Born": "1889",
+        "Died": "1961",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a4/George_S._Kaufman.jpg"
+    },
+    "William Pitt the Younger": {
+        "Born": "1759",
+        "Died": "1806",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e8/OlderPittThe_Younger.jpg"
+    },
+    "Clark Gable": {
+        "Born": "1901",
+        "Died": "1960",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Clark_Gable_-_publicity.JPG"
+    },
+    "Jorge Luis Borges": {
+        "Born": "1899",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jorge_Luis_Borges.jpg"
+    },
+    "Ramsay MacDonald": {
+        "Born": "1866",
+        "Died": "1937",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6b/J._Ramsay_MacDonald_LCCN2014715885_%28cropped%29.jpg"
+    },
+    "Muddy Waters": {
+        "Born": "1913",
+        "Died": "1983",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/64/Muddy_Waters.jpg"
+    },
+    "Ferdinand VII of Spain": {
+        "Born": "1784",
+        "Died": "1833",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Francisco_Goya_-_Portrait_of_Ferdinand_VII_of_Spain_in_his_robes_of_state_%281815%29_-_Prado.jpg"
+    },
+    "Mustafa Kemal Atat\u00fcrk": {
+        "Born": "1881",
+        "Died": "1938",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/53/Atat%C3%BCrk_Kemal.jpg"
+    },
+    "Linus Pauling": {
+        "Born": "1901",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Linus_Pauling_1962.jpg"
+    },
+    "Danny Kaye": {
+        "Born": "1911",
+        "Died": "1987",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kaye%2C_Danny.jpg"
+    },
+    "Edmund Hillary": {
+        "Born": "1919",
+        "Died": "2008",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/76/Edmund_Hillary%2C_c._1953%2C_autograph_removed.jpg"
+    },
+    "Golda Meir": {
+        "Born": "1898",
+        "Died": "1978",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Golda_Meir.jpg"
+    },
+    "Sammy Baugh": {
+        "Born": "1914",
+        "Died": "2008",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sammy_Baugh_NYWTS.gif"
+    },
+    "Charles Francis Adams Sr.": {
+        "Born": "1807",
+        "Died": "1886",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/4b/C._F._Adams_-_Warren._LCCN2013651550_%28cropped%29.jpg"
+    },
+    "Wolfram Freiherr von Richthofen": {
+        "Born": "1895",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bundesarchiv_Bild_101I-452-0985-36%2C_Russland%2C_Gener%C3%A4le_L%C3%B6hr_und_W._v._Richthofen_%28cropped%29.jpg"
+    },
+    "Otto Graham": {
+        "Born": "1921",
+        "Died": "2003",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fc/A_photo_of_Otto_Graham.jpg"
+    },
+    "W. H. Auden": {
+        "Born": "1907",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AudenVanVechten1939.jpg"
+    },
+    "Sam Houston": {
+        "Born": "1793",
+        "Died": "1863",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sam_Houston_c1850-crop.jpg"
+    },
+    "Paul Hausser": {
+        "Born": "1880",
+        "Died": "1972",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bundesarchiv_Bild_146-1973-122-16%2C_Paul_Hausser.jpg"
+    },
+    "Annie Besant": {
+        "Born": "1847",
+        "Died": "1933",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Annie_Besant%2C_LoC.jpg"
+    },
+    "Adolf Eichmann": {
+        "Born": "1906",
+        "Died": "1962",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adolf_Eichmann%2C_1942.jpg"
+    },
+    "Niels Bohr": {
+        "Born": "1885",
+        "Died": "1962",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg"
+    },
+    "James Longstreet": {
+        "Born": "1821",
+        "Died": "1904",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/cf/James_Longstreet.jpg"
+    },
+    "William Godwin": {
+        "Born": "1756",
+        "Died": "1836",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a8/William_Godwin_by_Henry_William_Pickersgill.jpg"
+    },
+    "Dizzy Dean": {
+        "Born": "1910",
+        "Died": "1974",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dizzy_Dean_Time.jpg"
+    },
+    "Sukarno": {
+        "Born": "1901",
+        "Died": "1970",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/01/Presiden_Sukarno.jpg"
+    },
+    "Robert Mugabe": {
+        "Born": "1924",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/75/Robert_Mugabe_May_2015_%28cropped%29.jpg"
+    },
+    "Charles Evans Hughes": {
+        "Born": "1862",
+        "Died": "1948",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Charles_Evans_Hughes_cph.3b15401.jpg"
+    },
+    "Cy Young": {
+        "Born": "1867",
+        "Died": "1955",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cy_Young_by_Conlon%2C_1911-crop.jpg"
+    },
+    "George Balanchine": {
+        "Born": "1904",
+        "Died": "1983",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/33/George_Balanchine_%281965%29.jpg"
+    },
+    "David Starr Jordan": {
+        "Born": "1851",
+        "Died": "1931",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/32/Portrait_of_David_Starr_Jordan.jpg"
+    },
+    "Sim\u00f3n Bol\u00edvar": {
+        "Born": "1783",
+        "Died": "1830",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sim%C3%B3n_Bol%C3%ADvar_Signature.svg"
+    },
+    "Barbara McClintock": {
+        "Born": "1902",
+        "Died": "1992",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/14/Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947.jpg"
+    },
+    "Heinrich von Vietinghoff": {
+        "Born": "1887",
+        "Died": "1952",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Heinrich_von_Vietinghoff.jpg"
+    },
+    "Nelson Rockefeller": {
+        "Born": "1908",
+        "Died": "1979",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/56/Nelson_Rockefeller.jpg"
+    },
+    "Claude Monet": {
+        "Born": "1840",
+        "Died": "1926",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Claude_Monet_1899_Nadar_crop.jpg"
+    },
+    "Oscar Peterson": {
+        "Born": "1925",
+        "Died": "2007",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Oscar_Peterson_-_1950.JPG"
+    },
+    "Barbara Stanwyck": {
+        "Born": "1907",
+        "Died": "1990",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/5c/BarbaraS39.jpg"
+    },
+    "Pee Wee Reese": {
+        "Born": "1918",
+        "Died": "1999",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/14/1954_Bowman_Pee_Wee_Reese.jpg"
+    },
+    "Hermann-Bernhard Ramcke": {
+        "Born": "1889",
+        "Died": "1968",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Bundesarchiv_Bild_101I-548-0725-28%2C_Nordafrika%2C_Bernhard-Hermann_Ramcke_%28cropped%29.jpg"
+    },
+    "Alexander von Humboldt": {
+        "Born": "1769",
+        "Died": "1859",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/36/Stieler%2C_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg"
+    },
+    "Georges Bizet": {
+        "Born": "1838",
+        "Died": "1875",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/96/Georges_bizet.jpg"
+    },
+    "Hank Greenberg": {
+        "Born": "1911",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hank_Greenberg_1946.jpg"
+    },
+    "Salmon P. Chase": {
+        "Born": "1808",
+        "Died": "1873",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mathew_Brady%2C_Portrait_of_Secretary_of_the_Treasury_Salmon_P._Chase%2C_officer_of_the_United_States_government_%281860%E2%80%931865%2C_full_version%29.jpg"
+    },
+    "Walter Model": {
+        "Born": "1891",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Walther_Model_on_the_front.jpg"
+    },
+    "Michael Bryan (art historian)": {
+        "Born": "1757",
+        "Died": "1821",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael-bryan.jpg"
+    },
+    "Mary Pickford": {
+        "Born": "1892",
+        "Died": "1979",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mary_Pickford_cph.3c17995u.jpg"
+    },
+    "Montesquieu": {
+        "Born": "1689",
+        "Died": "1755",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Montesquieu.jpg"
+    },
+    "Lothar Rendulic": {
+        "Born": "1887",
+        "Died": "1971",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bundesarchiv_Bild_146-1995-027-32A%2C_Lothar_Rendulic.jpg"
+    },
+    "Engelbert Endrass": {
+        "Born": "1911",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/87/Engelbert_Endrass.jpg"
+    },
+    "Reinhard Hardegen": {
+        "Born": "1913",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/07/Hardegen_2016.jpg"
+    },
+    "Heinrich Lehmann-Willenbrock": {
+        "Born": "1911",
+        "Died": "1986",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bundesarchiv_Bild_101II-MW-3483-05%2C_Heinrich_Lehmann-Willenbrock.jpg"
+    },
+    "Heinrich Bleichrodt": {
+        "Born": "1909",
+        "Died": "1977",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Heinrich_Bleichrodt.jpg"
+    },
+    "Harry Houdini": {
+        "Born": "1874",
+        "Died": "1926",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/37/HarryHoudini1899.jpg"
+    },
+    "Gordon Gollob": {
+        "Born": "1912",
+        "Died": "1987",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bundesarchiv_Bild_146-2006-0125%2C_Gordon_Mac_Gollob.jpg"
+    },
+    "Werner Henke": {
+        "Born": "1909",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bundesarchiv_Bild_146-1980-115-23A%2C_Werner_Henke.jpg"
+    },
+    "Gotthard Heinrici": {
+        "Born": "1886",
+        "Died": "1971",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gotthard_Heinrici.jpg"
+    },
+    "Marquis de Sade": {
+        "Born": "1740",
+        "Died": "1814",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/20/Marquis_de_sade.jpg"
+    },
+    "John Tyler": {
+        "Born": "1790",
+        "Died": "1862",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ab/John_Tyler_%28cropped_3x4%29.png"
+    },
+    "Ambrose Burnside": {
+        "Born": "1824",
+        "Died": "1881",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Ambrose_Burnside_-_retouched.jpg"
+    },
+    "Helmut Lent": {
+        "Born": "1918",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bundesarchiv_Bild_146-1987-137-10%2C_Helmut_Lent.jpg"
+    },
+    "Walter Nowotny": {
+        "Born": "1920",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Adolf_Hitler_hands_the_award_to_Walter_Nowotny.jpg"
+    },
+    "Albrecht Brandi": {
+        "Born": "1914",
+        "Died": "1966",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Albrecht_Brandi_na_uitreiking_RK_met_Briljanten.jpg"
+    },
+    "Sylvester Stadler": {
+        "Born": "1910",
+        "Died": "1995",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bundesarchiv_Bild_101III-Zschaeckel-192-24A%2C_Russland%2C_Sylvester_Stadler.jpg"
+    },
+    "Rolf M\u00fctzelburg": {
+        "Born": "1913",
+        "Died": "1942",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/02/Rolf_M%C3%BCtzelburg_%281913-1942%29.jpg"
+    },
+    "Carl Emmermann": {
+        "Born": "1915",
+        "Died": "1990",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Carl_Emmermann.jpg"
+    },
+    "John Maynard Keynes": {
+        "Born": "1883",
+        "Died": "1946",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/04/Keynes_1933.jpg"
+    },
+    "Herman Melville": {
+        "Born": "1819",
+        "Died": "1891",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Herman_Melville_by_Joseph_O_Eaton.jpg"
+    },
+    "Graham Greene": {
+        "Born": "1904",
+        "Died": "1991",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Graham_Greene%2C_Bassano.jpg"
+    },
+    "Peggy Lee": {
+        "Born": "1920",
+        "Died": "2002",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Peggy_Lee_1950.JPG"
+    },
+    "John A. Macdonald": {
+        "Born": "1815",
+        "Died": "1891",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/71/John_A_Macdonald_%28ca._1875%29.jpg"
+    },
+    "Mickey Cochrane": {
+        "Born": "1903",
+        "Died": "1962",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b0/MickeyCochraneGoudeycard.jpg"
+    },
+    "Hans-Joachim Marseille": {
+        "Born": "1919",
+        "Died": "1942",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bundesarchiv_Bild_146-2006-0122%2C_Hans-Joachim_Marseille.jpg"
+    },
+    "Jack Kerouac": {
+        "Born": "1922",
+        "Died": "1969",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kerouac_by_Palumbo_2_%28cropped%29.png"
+    },
+    "Archduke Charles Duke of Teschen": {
+        "Born": "1771",
+        "Died": "1847",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anton_Einsle_-_Erherzog_Carl_von_%C3%96sterreich.jpg"
+    },
+    "Albert Prince Consort": {
+        "Born": "1819",
+        "Died": "1861",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Albert%2C_Prince_Consort_by_JJE_Mayall%2C_1860_crop.png"
+    },
+    "Sarah Vaughan": {
+        "Born": "1924",
+        "Died": "1990",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sarah_Vaughan_-_William_P._Gottlieb_-_No._1.jpg"
+    },
+    "John Dewey": {
+        "Born": "1859",
+        "Died": "1952",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/ef/John_Dewey_cph.3a51565.jpg"
+    },
+    "Burt Lancaster": {
+        "Born": "1913",
+        "Died": "1994",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Burt_Lancaster_-_publicity_1947.JPG"
+    },
+    "Chuck Jones": {
+        "Born": "1912",
+        "Died": "2002",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Chuck_Jones1.jpg"
+    },
+    "Ferdinand Sch\u00f6rner": {
+        "Born": "1892",
+        "Died": "1973",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bundesarchiv_Bild_183-L29176%2C_Ferdinand_Sch%C3%B6rner.jpg"
+    },
+    "Georg Lindemann": {
+        "Born": "1884",
+        "Died": "1963",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bundesarchiv_Bild_183-L08017%2C_Georg_Lindemann.jpg"
+    },
+    "Johannes Blaskowitz": {
+        "Born": "1883",
+        "Died": "1948",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bundesarchiv_Bild_146-2004-004-05%2C_Johannes_Blaskowitz.jpg"
+    },
+    "Petre Dumitrescu": {
+        "Born": "1882",
+        "Died": "1950",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Generaal_Petre_Dumitrescu.jpg"
+    },
+    "Mihail Lasc\u0103r": {
+        "Born": "1889",
+        "Died": "1959",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gen_mihail_lascar-177072629.jpg"
+    },
+    "Maximilian von Weichs": {
+        "Born": "1881",
+        "Died": "1954",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/3/39/Maximillian_von_Weichs.jpg"
+    },
+    "Richard Attenborough": {
+        "Born": "1923",
+        "Died": "2014",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RichardAttenborough07TIFF.jpg"
+    },
+    "Eduard Dietl": {
+        "Born": "1890",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bundesarchiv_Bild_146-1984-019-20%2C_Eduard_Dietl.jpg"
+    },
+    "Marie Curie": {
+        "Born": "1867",
+        "Died": "1934",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg"
+    },
+    "G\u00fcnther-Eberhardt Wisliceny": {
+        "Born": "1912",
+        "Died": "1985",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Frederick William III of Prussia": {
+        "Born": "1770",
+        "Died": "1840",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/7/76/Friedrich_Wilhelm_III.%2C_K%C3%B6nig_von_Preu%C3%9Fen_%28unbekannter_Maler%29.jpg"
+    },
+    "Pieter Bleeker": {
+        "Born": "1819",
+        "Died": "1878",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/14/Pieter_Bleeker.jpg"
+    },
+    "Helmuth Weidling": {
+        "Born": "1891",
+        "Died": "1955",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bundesarchiv_Bild_146-1983-028-05%2C_Helmuth_Weidling.jpg"
+    },
+    "Artur Phleps": {
+        "Born": "1881",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Generale_SS_Artur_Phleps.jpg"
+    },
+    "Hoagy Carmichael": {
+        "Born": "1899",
+        "Died": "1981",
+        "link": "https://upload.wikimedia.org/wikipedia/en/c/c3/Hoagy_Carmichael_-_1947.jpg"
+    },
+    "Richard Heidrich": {
+        "Born": "1896",
+        "Died": "1947",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_183-L19501%2C_Richard_Heidrich.jpg"
+    },
+    "William O. Douglas": {
+        "Born": "1898",
+        "Died": "1980",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Face_detail%2C_Douglas_dons_robes_of_Supreme_Court_Justice._Washington%2C_D.C.%2C_April_17._William_Orville_Douglas%2C_40_year_old_successor_to_retired_Justice_Louis_D._Brandeis%2C_today_donned_the_robes_of_an_LCCN2016875459_%28cropped%29.tif"
+    },
+    "Harry Warren": {
+        "Born": "1893",
+        "Died": "1981",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/14/HarryWarren1910.jpg"
+    },
+    "Bruno Hinz": {
+        "Born": "1915",
+        "Died": "1968",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DE_Band_mit_RK_%281%29.jpg"
+    },
+    "Mel Allen": {
+        "Born": "1913",
+        "Died": "1996",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mel_Allen_NYWTS.jpg"
+    },
+    "Lou Boudreau": {
+        "Born": "1917",
+        "Died": "2001",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/25/LouBoudreau1953bowman.jpg"
+    },
+    "Emanuel Lasker": {
+        "Born": "1868",
+        "Died": "1941",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
+    },
+    "Michael Wittmann": {
+        "Born": "1914",
+        "Died": "1944",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bundesarchiv_Bild_146-1983-108-29%2C_Michael_Wittmann.jpg"
+    },
+    "Erich Rudorffer": {
+        "Born": "1917",
+        "Died": "2010",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bundesarchiv_Bild_183-2007-1218-501%2C_Erich_Rudorffer.jpg"
+    },
+    "Paul Ludwig Ewald von Kleist": {
+        "Born": "1881",
+        "Died": "1954",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/6/65/Paul_Ludwig_Ewald_von_Kleist.jpg"
+    }
+}

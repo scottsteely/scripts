@@ -1,0 +1,17 @@
+{
+    "Ronald Reagan": {
+        "Born": "1911",
+        "Died": "2004",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg"
+    },
+    "Adolf Hitler": {
+        "Born": "1889",
+        "Died": "1945",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hitler_portrait_crop.jpg"
+    },
+    "Carl Linnaeus": {
+        "Born": "1707",
+        "Died": "1778",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/4/41/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723.tif"
+    }
+}
